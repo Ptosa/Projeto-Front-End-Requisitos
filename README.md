@@ -4,11 +4,11 @@
 
 Partes envolvidas-Clientes: 
 
-Eduardo Mangeli - Product Owner
+-Eduardo Mangeli - Product Owner
 
-Ana Beatriz - CEO Gargo
+-Ana Beatriz - CEO Gargo
 
-Victor Machado - Participante 
+-Victor Machado - Participante 
 
 Partes envolvidas-Desenvolvedores: 
 
@@ -50,7 +50,7 @@ apresentados nas próximas seções.
 
  ### Requisitos 
  
-###Requisitos Funcionais:
+Requisitos Funcionais:
 - RF-1: Uma sessão premium relativo a meios de pagamentos: emitir boletos, notas, link de pagamentos por pix e cartão de crédito (modular).
 - RF-2: Ao conferir que o Cliente está pagando mais caro em um serviço deverá aparecer uma mensagem o notificando;
 - RF-3: Ao fazer a checagem do preço pago pelo cliente em serviços, exibir a quantidade estimada de dinheiro que o cliente pode economizar ao fazer a troca de serviço;
@@ -62,7 +62,7 @@ apresentados nas próximas seções.
 
 
 
-###Requisitos Não-Funcionais :
+Requisitos Não-Funcionais :
 - RN-1: O sistema deve ser modularizado, garantindo que somente os clientes autorizados tenham acesso a determinada funcionalidade financeira.
 - RN-2: Mobile First: O software deve ser responsivo para acesso via dispositivos móveis e ter uma interface amigável e intuitiva
 - RN-3: Segurança: O software deve garantir a segurança das informações inseridas e armazenadas no sistema, através de medidas como criptografia, autenticação e autorização.
