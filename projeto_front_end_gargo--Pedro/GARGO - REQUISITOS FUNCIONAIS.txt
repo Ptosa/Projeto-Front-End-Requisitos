@@ -1,0 +1,15 @@
+Narrativa Livre - "O Front-End deve conseguir apresentar ofertas de serviços ao conferir que oque ele está pagando é mais caro"
+"O Front-End deve ofertar opções de serviço melhor aos clientes"
+
+RF1- Deve ser checkado o valor que está sendo pago para emissão de boletos , notas fiscais, etc..
+
+RF2- Ao conferir que o Cliente está pagando mais caro em um serviço deverá aparecer uma mensagem o notificando
+
+RF3-A mensagen deve aparece no centro da tela , impossibilitando o Cliente de fazer outra ação
+
+RF4- A mensagem deve conter uma caixa de "não me lembre novamente"
+
+RF5-Na caixa de mensagem , devemos ter a quantidade estimada de dinheiro economizando fazendo a troca
+
+RF6-É muito importante que a troca consiga ser feita na hora, e sem muitas complicações 
+
