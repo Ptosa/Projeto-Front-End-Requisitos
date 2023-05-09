@@ -54,10 +54,8 @@ Requisitos Funcionais:
 - RF-1: Uma sessão premium relativo a meios de pagamentos: emitir boletos, notas, link de pagamentos por pix e cartão de crédito (modular).
 - RF-2: Ao conferir que o Cliente está pagando mais caro em um serviço deverá aparecer uma mensagem o notificando;
 - RF-3: Ao fazer a checagem do preço pago pelo cliente em serviços, exibir a quantidade estimada de dinheiro que o cliente pode economizar ao fazer a troca de serviço;
-- RF-4: O sistema deve receber dados como o valor do pagamento, data de vencimento, nome e CPF/CNPJ relativos a cada boleto
-- RF-5: A página para emissão de nota fiscal eletrônica deve garantir que os clientes insiram os detalhes necessários, como o valorda transação, informações de usuário e dados tributários, gerando uma nota fiscal eletrônica válida de acordo com a legislaçãovigente. Os clientes também podem fazer o download da nota fiscal em formato PDF.
-- RF-6: A página para contratar Meio de Pagamento 
-- RF-7: Ter um sistema de notificações que informe aos clientes as novas funcionalidades e benefícios disponíveis nos planos pagos e como eles podem acessá-los.
+- RF-4: A página para contratar Meio de Pagamento 
+- RF-5: Ter um sistema de notificações que informe aos clientes as novas funcionalidades e benefícios disponíveis nos planos pagos e como eles podem acessá-los.
 
 
 
