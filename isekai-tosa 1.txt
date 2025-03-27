@@ -1,0 +1,2067 @@
+Como funciona o Mundo:
+-Blocos de 500kmx500kmx500km , onde chegando na borda (que é invisivel e não uniforme) você é teleportado para outro bloco aleatorio
+-As pessoas ganham poderes baseados na sua vida , a grande maioria dos poderes não é adorado pelos seus usuarios
+(EXEMPLOS):
+	- Alguem que controla agua normalmente só consegue levantar um ponto de agua, seus poderes permitem manipular agua como a katara mas as limitações estão no nivel de concentração e treino
+	-Essa mesma pessoa que controla agua vê pessoas que tem o "mesmo poder" utilizando-o de forma muito melhor ,pois entende que na raiz ele tá controlando h2o podendo separar os mesmos em h2 e o , mas perdendo o controle da mesma , pois deixa de ser agua
+	- ah mas porque essa pessoa só controla h2o junto e não separado? não sei , é assim que funciona
+Alguns personagens:
+	-principal , garoto das sombras: ele tem os poderes do shikamaru , mas ele é limitado pela area da sombra , não podendo aumentar a mesma , assim que ele acorda no mundo , ele sente uma conexão muito forte , pois todo mundo ta cheio de sombras dentro do proprio corpo
+	no começo as sombras são meramente visuais , tendo mais um efeito comico do que qualquer coisa, no final da primeira temporada é descoberto que ele consegue interagir fisicamente com as proprias sombras , evoluindo para conseguir interagir com os outros e no seu estado masi foda conseguindo entrar na cabeça dos outros , pois sua cabeça está envolta de sombras
+	uma maneira de evoluir o poder dele é a qualidade das sombras , quando se tem dois spots de luz , você gera duas sombras , sendo as duas fracas , mas a intersecção delas é forte , algo pode ser pensado nesse sentido , onde a borda das sombras não tem tantas "sombras" assim mas o meio é sombra pura , oque pode interragir fisicamente com as pessoas , a explicação sendo que precisa de materia o suficiente para criar algo solido ,e sombras de boa qualidade são mais complicadas de mexer pois tem mais "particulas" de sombra para serem mexidas
+	-Amiga do principal, uma garota que viveu a vida inteira "seguindo as regras" , seu pai era um big guy de alguma corporação, não foi alguem do mal , mas alguem que fez muita coisa sem proposito nenhum, a filha sempre teve um treinamento brabo em violino (obrigada pelo pai). Ela sempre gostou de musica mas não da musica classica que ela toca
+	os poderes dela começam especificamente com o violino , ela sendo meio que a banshee , com um violino. A verdade é que ela consegue fazer isso com qualquer instrumento , seus poderes estão ligados ao ritmo , mas até ela descobrir isso , parece que é mais uma maldição do que um poder , porque ela tem que tocar aquela PORRA de violino pra fazer alguma coisa
+	-Guga, Um mega good guy , sua vida nunca foi dificil , nunca foi facil , mas ele sempre estava sorrindo. ele odeia qualquer tipo de tristeza e se for pra ele tomar porrada pra todos ficarem feliz , ele toma , o poder dele é o corpo , que é feito de kevlar (menos o coração , que já era o mais pika possivel desde vivo) ele consegue dar um super soco , mas tambem consegue fechar os dedos com uma pressão absurda
+	imagina uma maquina em todas as ligações do seu corpo , super pulo , super força, aguenta correr 30 dias sem agua/comida , resiste a fogo/frio (ele é uma maquina com coração)
+	-Cold Bitch , não tenho ainda a motivação dos poderes , mas ela basicamente exala 0 kelvin , tudo perto dela congela ao nivel maximo instantaneamente, é uma referencia a pessoas que pra se "proteger" afastam todos de perto e acreditam que estão sozinhas e ninguem as entende 
+	eventualmente ela vira um vilão , mas todos conhecem ela e sabem que ela só está fazendo aquilo pra provar algo pra ela mesmo
+	-O mestre , ele morre e bem rapido , ele é o cara que junta os personagens , ele quer melhorar o mundo em volta dele e tem visões de grandeza de ser o charles xavier/ martin luther king ou qualquer um desses, otimas intenções , um amor , mas massacrado pelo mundo logo quando solta a equipe pro mundo
+	-Jardineiro , esse cara é um velho simpatico que tem poderes de planta , tentam botar ele no time mas percebem que nem todo mundo quer usar seus poderes pra salvar o mundo e ser grandioso , as vezes as pessoas só querem viver com a sua familia e ser feliz
+Timeline da historia:
+- a primeira parte se passa em uma megalopole que imaginasse que é o centro (podendo ter capitulos até chegar a essa cidade) a ideia é que nesse mundo não se precise comer/beber , pessoas com poderes basicamente deram um 1000x na produçãod e tudo , tanto fisico quanto tecnologico
+o mundo não é futuristico no sentido literal , pois se passa nos dias de hoje , mas como essa "sociedade" tem super poderes , tudo é melhor , carros voam , computadores trinarios, coisas do tipo (um cara com poderes do gambit conseguiria energizar rodas e fazer um carro voar?)
+a ideia principal é fazer um mundo parecido com o nosso no sentido de você é livre pra explorar o mundo , fazer outras pessoas felizes , se expressar de qualquer forma , mas aparentemente todo mundo acha que os proprios poderes são horriveis , que não da pra ser feliz porque sempre algo vai acontecer e alguem vai te passar a perna
+ainda não sei direito como , mas na minha cabeça os personagens não precisam comer mas ainda precisam beber agua (a comida é resolvida por um cara que fica pequeno e cria uma frota de pequenos robos que ficam dentro de uma pilula e vão depositando os nutrientes aos poucos no seu estomago ou seja , você pagaria 100 reais para não passar fome por um ano , podendo pagar 250 pra não precisar comer por 5 , e assim em diante)
+como as pessoas desse mundo ja estão mortas , a morte funciona diferente, você é enviado para algum bloco aleatorio , da mesma forma quando você morreu no mundo real, é um programa recursivo , onde se você morrer lá , acontece a mesma morte do mundo real e você vai para algum bloco aleatorio , isso não é conhecido por alguns blocos , blocos maiores , como a megalopole principal , ja tiveram pessoas que voltaram e boa parte entende como funciona , mas ninguem quer se arriscar de morrer e perder tudo e talvez nunca mais achar a vida que viveu
+algo forte nesse mundo é você pagar para morrer definitivamente , depois de 200 anos vivendo nessa loucura , muitas pessoas não aguentam mais viver,mas esse processo é caro demais , sendo o objetivo de vida de muitas pessoas , pessoas ja chegam sonhando no dia que elas irão morrer (alusão a muitas pessoas que pretendem viver a vida toda trabalhando pra chegar com 80 anos e não ter que trabalhar)
+-as tramas devem ser pensadas de forma diferente , pois nesse mundo todos podem fazer merda e se matar depois e simplesmente desaparecer, da mesma forma que se alguem morrer tanto o morto quanto os proximos dele podem ir numa expedição de buscar de volta, pessoas podem voltar pro bloco delas e perceber que todo mundo cagou pra ela ter sumida , varios plots
+-Existem pessoas que mudam constantemente de blocos , os nomades , cada um por um motivo especifico , mas as pessoas que se estabelecem , normalmente tem medo de sair pois não tem certeza se será possivel voltar
+-Tentam fazer estudos sobre todo esse "Plano" mas é muito dificil repassar informação , mas a mais conhecida é a pesquisa de quantos blocos existem , e sempre surge algum bloco novo 
+-Recursos naturais tem basicamente infinitos, os blocos consistem de todas as faunas e floras existentes na terra , com variações dependendo do local , imagino um bloco sendo uma cordilheira , outro sendo uma planice , outro um lago enorme , e assim em diante (são 250km de chão e 250km de céu) (as estrelas ainda existem , e muitos acham que são os outros blocos)
+-existem blocos que são inabitaveis , ou por consequencias dos humanos , ou por causa da fauna agressiva , alguns varios motivos 
+- o primeiro plot aida está em aberto , mas imagino o vilão sendo algo mais filosofico , como uma liga das pessoas extraordinarias como newton , darwin , etc.. e muitos pagam pau para eles e seus poderes (que são todos os mesmos , que parece ser o melhor poder mas na verdade consome eles) e terminaria demonstrando que mesmo eles sendo FODA e ajudando a humanidade ser oque é hoje , idolatrar qualquer um é completamente errado , todos somos seres humanos e todos somos corruptiveis TODOS (não imagino eles querendo fazer o mal , mas eles já estão a tanto tempo dominando tudo e decidindo como seguir com aquele bloco, que nem eles se veem mais como humanos , eles deixam as vozes na propria cabeça disserem que els são melhores e que eles sabem oq deve ser feito)
+Imagino a primeira saga sendo sobre os lumieres, chegando em utopolis tudo parece de boas , e vai ficar assim durante um tempo, um vilão menor deve ser introduzido essa hora , os personagens devem passar um tempo vivendo sobre as "regras" dos lumieres , onde os caras só estão fazendo o certo , mas os malvados usam o sistema contra ele, e com isso , os principais vão atras dos lumiere pra avisr eles que tem gente usando o sonho deles pro mal e é ai que se começa a descobrir que eles são "mals", nenhum deles quer matar ninguem , nenhum quer controlar ninguem , eles não querem poder. Depois de anos deixando a natureza humana solta e tentando restringi-lá o minimo possivel , se chegou a conclusão que nem as pessoas sabem oque elas querem, e a unica solução pra isso é manipular os mesmos para achar que estão tomando a decisão de querer oque foi inputado para os mesmos quererem
+Eles falam que o plano é horrivel e cheio de morte e que tudo vai dar errado e a melhor forma de se prevenir de qualquer coisa dar errado e ficando ali em utopolis , aonde eles conseguem aos poucos te deixar viciado nas drogas que eles sintetizam e são drogas maravilhosas , que fazem as pessoas aceitarem essa vida bizarra que todos tem
+
+COISAS PARA REVER: 
+-É PRECISO DE MAIS TEMPO DO PRINCIPAL PASSANDO POR DIFICULDADES FORA DE UTOPOLIS 
+-É PRECISO DE MAIS NOTICIAS RUINS SOBRE O GRUPO QUANDO ELE CHEGA EM UTOPOLIS
+
+
+
+Imagino que a historia começa com ele em alguma tipo de tribo , algo bem primitivo , onde mostram tecnologias jamais vistas por ele, os poderes de quase todos os nativos são relacionados a natureza , mas por escolha deles 
+utilizam o controle de agua para redirecionar um rio para a caixa dágua deles, eles tem smithing devido a uma familia de controladores de fogo , em que eles não tem poderes como o do pyro , eles consegue fazer o fogo ficar mais quente, mas não conseguem aumenta-lo e manipula-lo 
+existe um homem que canta no ritual noturno deles e mostra a beleza que é um poder "ruim" , o cara traz a energia de volta de todo esse povo que virou um com a terra, as canções dele fazem eles dormirem tranquilos e acordarem pilhados , eles não tem um objetivo final , eles só querem continuar felizes 
+isso é o primeiro dia , onde ele só ve poderes felicidades e alegria 
+o Segundo dia começa com alguem (triboman1) ajudando o princiapl a descobrir os seus poderes, ele estava sentindo que estava num sonho porque sentia algo esquisito, triboman1 pede para que o principal se concentre na sensação e o principal consegue , mas nada acontece 
+Ele ouve 300 mil vozes ao mesmo tempo , oq torna aquilo inaudivel , ele escuta um hummmmmmm muito alto
+(cena dele tentando entender os poderes dele)
+no final do dia ele se reune denovo com o povo e descobre que uma pessoa morreu do nada hoje enquanto eles faziam alguma coisa (eles estavam terraformando uma montanha para fazer novas casas)
+ao acordar pro terceiro dia eles falam que pra descobrir oq o poder dele faz normalmente eles começam no psiquico e depois vão pro fisico , então vão botar ele para caçar pra ver se algo acontece
+no decorrer da caçada , ele alcança a borda do cubo e acaba sendo teleportado para outro cubo (o povo sabia que ele seria teleportado , por motivos de *plot* [eles tem uma "religião" forte , eles queriam expulsar ele,a mulher morta no dia anterior foi um "bad omen" e eles sentiram que ele era pessima noticia]) ao ser instantaneamente teleportado , ele fica meio em choque (imagino ele indo parar em um cubo com chuvas infinitas , ele vê sinais de civfilização no meio mas não quer percorrer quilometros a pé na chuva então ele tenta voltar , o fazendo teleportar para outro cubo , oque deixa ele completamente confuso 
+pela ciencia , ele tenta voltar mais uma vez e vai para um terceiro cubo completamente desconhecido
+ele se toca que provavelmente perdeu aquela tribo que ele ficou tão facinado como eles eram felizes , como tudo funcionava , como aparentemente n existe raiva entre eles , etc...
+(imagino que 70% dos cubos são lugares basicamente inospitos, com alguma leve civilização em 40%)
+ele está em um cubo que é uma planice enorme com um lago no fundo (da perspetiva dele)
+Ele ve que existem varios avisos a tras dele de "não" , avisando que ali é a barreira da "morte" , ele vai andando em direção a civilização
+Ele está com fome e percebe que a "civilização" é uma vila com umas 3 casas , uma sendo grande e duas "ocas" chegando mais perto da casa grande , ela se encontra vazia 
+o personagem começa a ficar com medo , de estar perdido , de estar sozinho e não saber oq está acontecendo ou aonde ele está 
+ele dá um grito pro alto , quando um velho barbudo , extremamente magro sai de uma das ocas, perguntando oque houve?
+ele toma um leve susto , mas fica feliz tambem por não estar sozinho 
+Agora ele deve ter uma conversa longa com esse velho , que dá a ele uma pilula que tira a fome do mesmo , e o velho fala "isso deve te sustentar por um tempo, eu não devo tomar uma a uns 3 meses"
+percebe-se que ele tem uma quantidade absurda dessas pilulas "isso porque você não viu a quantidade que eu ganhei inicialmente"
+Ele não sabe os poderes dele , não usa eles a anos , mas o conceito de tempo dele tambem foi perdido 
+ele foi um nomade durante um tempo mas quando chegou nesse cubo , ele se sentiu completo , e nunca saiu , ele só aguarda pessoas chegarem , elas ficam quanto tempo elas quiserem ,saem quando querem 
+Ele coleciona as maravilhas que eventualmente são levadas a ele , tecnologias , experiencias , pessoas , materias ,etc...
+assim como as pessoas , que fazem da vida dele feliz , as pilulas estão la , até não estar mais , e quando o dia chegar ele vai se preocupar com isso, ou só esperar aparecer outra pessoa com um carregamento disso
+O velho explica para o personagem como que funciona os cubos , as maravilhas que ele ja viu e os horrores tambem 
+e fala p ele das casas , que são para as pessoas que passam por lá , uma , ou varias pessoas 
+Então o personagem principal vai dormir e pensa no que ele pode fazer 
+Ele não entende o porque o velho está aqui, ouvindo as historias que ele ouviu , ele quer buscar essas maravilhas , e acabar com as maldades 
+Ele não vê sentido em ficar parado aqui , ele pode continuar experimentando tudo e não estar em um unico lugar 
+então ele se decide em continuar sua aventura , mas dessa vez preparado 
+leva mais uma pilula com ele , se despede do velho , perguntando se ele quer algo antes que ele vá 
+O velho sorri e responde : "tudo que você poderia ter feito , você ja fez"
+então nosso personagem principal vai para o mar/lago e começa a nadar em direção da borda 
+durante o seu nado , ele olhando para baixo as vezes ele ouve algo chamando ele , ele sente o sentimento que ele está tendo desde que chegou
+(tudo isso são os poderes dele de sombra, ele consegue sentir as sombras no cubo que ele se encontra, quando ele tentou fazer algo com os poderes aonde ele nasceu , ele acabou matando a mulher , pois dentro de todo mundo está cheio de sombras)
+(filler dele entrando em cubos e descobrindo algumas coisas)
+Até que ele chega na megalopole "aleluia , algum lugar com gente"
+instantaneamente ele é jumped by some guys, oque deixa ele puto: caralho , oq q vocês querem?
+-A gente quer oque você tiver , nomade
+- eu não tenho tantas coisas assim , tenho as roupas no meu corpo 
+-Só? aparentemente alguem nasceu ontem
+-Mostar os bolsos ai otario , vamo ver se você sabe falar a verdade 
+Oque falou se aproxima rapidamente , e o personagem principal se afasta
+-Já quer voltar? se quiser pula logo , se não fazemos você pular 
+nisso ele puxa uma faca , extremamente futuristica , mas uma faca 
+-Ooooopa , cuidado ai cara, eu realmente não tenho nada , tenho essa pilula e só 
+ele mostra a pilula e o bandido malvado pega 
+-Caralho, como que você não tem nada? uma comilula T10 não é nada?
+-Que porras é uma comilula
+-Você vai falar que isso não é uma comilula?
+-Eu vou falar que eu não faço a menor ideia de que pilula é essa , sei que tirou minha fome ja tem uns 4 dias
+-É , definitivamente é uma comilula 
+um dos bandidos começa a questionar alto
+-Você ganhou uma comilula T10 , não sei oque é mais impressionante , você não saber oque é , ou quem te deu, dar pra alguem que não sabe oque ela faz , e aparentemente você ingeriou ela sem saber oque fazia , que situação bizarra
+esse bandido começa a chegar mais perto tambem
+-Você sabe que essa pilula te sustenta por 10 anos? T10 , entendeu?(aparentemente ele não sabe nada)
+-Eu acabei parando em um cubo aonde esse velho me deu uma pois estava com fome e ainda me deu uma pra viagem
+-Que velho rico , devia viver bem pra ter tantas sobrando assim
+-Não , ele vivia bem mal, e não senti que elas eram tão fodas , ele tinha no minimo mais umas 100
+os olhos dos bandidos arregalam
+-Bizarro
+-Eu falo que a gente tem que sair desse lugar!
+-Interessante....
+o principal volta
+-Olha , podem levar essa pilula , aparentemetne eu to bem por um tempo e definitivamente não quero sair daqui (por enquanto....) tem algo masi que eu possa ajudar vocês?
+-Você não tem mais nada né? mostra 100% ai 
+o personagem principal começa a tirar as roupas
+-wow wow wow , calma ai filhão , não precisa de tanto
+-O doidão , estou sendo bonzinho demais com uns BANDIDOS que estão me ameaçando , e você ainda querem me tirar por 100% do que eu tenho , 
+-ta bom , vai lá, você ja fez o dia de alguem
+(ele não entende muito bem o porque do "dia de alguem" , a pessoa não ficaria 10 anos sem precisar comer?)
+andando em direção a cidade principal que brilha como um sol no meio do cubo ele percebe que a fronteira do cubo é rodeada por inumeras vilas de pessoas , que imagino que façam as mesmas coisas que esses bandidos
+esperam algum nomade , ou bobo, passar pela barreira e tirar oque ele/s tiverem
+Andando pelo "deserto" (referencia : mojave desert) carros/motos passam por ele , indo para cidade , e voltando da mesma carros junky e carros fancy , todo tipo de veiculo
+chegando na cidade ele entra pela parte de tras de uma rua que lembra o brooklyn de "todo mundo odeia o chris" , so que com uma cidade cyberpunk do lado de fora
+Ele vê uma rua com varios predios , mas 90% desocupados , existem predios sendo construidos para direção do limite 
+e olhando em direção ao centro , se ve uma rua que parece um ctrl+c ctrl+v da mesma rua , umas 100 vezes 
+na rua em que o principal se encontra agora ele vê  a rua com uns 20 predios de cada lado e ve a porta de cada um deles , a maioria tem um papel escrito "Bem-vindo! as acomodações lumiere, sinta-se em casa , entre nessa porta e busque a sua futura casa!"
+- na cabeça do principal , parece um otimo jeito de escravizar alguem , "bem vindo a sua nova casa" , e se eu não quiser que seja a minha casa? eu estou sendo obrigado? 
+Ele segue em direção ao centro, passando por essas inumeras casa , ele vê que quanto mais ele anda , mais populado são as casa , e com mais gente , mais coisas acontecem
+quanto mais perto do centro , mais ele ve gente nas ruas principais , mais carros nas ruas 
+algumas estruturas conectam a parte de cima de alguns predios 
+gente sendo assaltada , gente se divertindo , festas acontecendo 
+opa , uma festa acontecendo. O personagem principal não tem nada , ele só quer ver oq fazer , pelo resto da vida
+a festa está rolando no meio da rua, mas o som ta saindo do alto de um dos predios , que não são tão altos assim , tem uns 5 andares
+ele ve uma galera bem doida curtindo , talvez doida demais. danças exotericas , tintas de rosto , gente usando poderes nos outros e fazendo algum tipo de doidera
+Ele lembra da tribo em que ele nasceu , ele lembra do cantor que trazia a energia de volta a todos 
+então ele vai tentar ver quem q está tocando , ele não consegue , e ele percebe que ninguem consegue 
+as pessoas só estão dançando na rua elas não estão se importando da onde vem a musica 
+o principal não quer sair entrando no predio , não sabe de nada que está acontecendo e tem medo de só tomar uma facada ao chegar na porta da musica
+continuando andando cada vez mais festas , cada vez mais gente, cada rua mais vida
+ele fica impressionado , pois aparentemente a lotação de uma rua ja foi alcançada 100% a umas duas ruas atras , e ainda tem mais umas 20 ruas pra chegar em algo diferente (ainda não é o centro [que parece ser uma torre enorme luminosa]) a questão da overpopulation fica obvia a cada rua , gente demais na rua , gritaria , carros demais estacionados , aparentemente gente dormindo na rua 
+(o principal não entende porque tem gente dormindo na rua se teoricamente tem casa gratis 20 blocos pra tras, fica feliz de não ter entrado de primeira) 
+ao chegar mais perto , umas 7 quadras de algo , ele é abordado por um homem sorridente
+-Boa Tarde , jovem cavalheiro! como vai seu dia?
+-Bem...(?)
+-Que felicidade! sou representante da farbs & fabs e nós buscamos SUAS habilidades para fabularizar o mundo!
+Nós da farbs & fabs usamos os seus poderes mal aproveitados pela sociedade para algo que realmente os faça dizer WOW
+Então , quais seus poderes rapaz?
+-Não sei? gritos constantes na minha cabeça?
+o homem continua sorrindo , mas suas sonbrancelhas fazem uma sinalização de questão
+-Ora , uma mera inconveniencia, se o senhor me acompanhar vemos isso pra você!
+- ta , mas oq me garante que você não vai me fuder?
+-O nome farbs & fabs não te traz segurança? nos produzimos 90% das facilidades da topia:comilulas , vodas, xptos , skibidi 
+-Ta , não faço a menor ideia do que você ta falando , menos das comilulas
+O homem da um sorriso smurky , associando o fato dele conhecer as comilulas com o fato delas serem a maior moeda de troca para drogas 
+-Eu lhe dou a minha palavra cavalheiro , qualuqer local que formos entrar , qualquer pedido que eu te faça , você tem 100% de liberdade de só dizer não 
+-Ok....
+(A curiosidade de saber seus poderes é a unica coisa que o faz aceitar)
+Seguindo o homem atraves da rua principal , eles chegam ao final das moradias e o princiapl se depara com uma puta cidade , nova york futuristica
+Não é 100% bonita , não é 100% feia , é a beleza da vida como ela é
+pessoas gritando em seus celulares , familias jantando , gente usando drogas nas ruas, crianças voltando da escola
+tudo em uma unica rua 
+Ele segue o homem , mas enquanto eles caminham ele pergunta:
+"Então , eu não cheguei aqui a muito tempo, eu vi umas casas abandonadas lá no começo , oque são el..."
+"Elas não estão abandonadas , nunca foramd e ninguem , ou não mais. São casas dadas pelos lumiere, são gratuitas"
+"Mas como funcio..."
+"São os lumieres , eles ja pensaram em tudo possivel , é só ir lá e entrar na casa, se você quer ver a cidade pegue a cobertura 1 , se quiser ver o deserto pegue a cobertura 2"
+"Mas se eu não quiser a cobertura?"
+"Realmente você chegou aqui a pouco tempo.... eeeee , chegamos!"
+o principal olha uma fabrica ENORME , entoxada entre alguns pequenos predios ocupando 70% de um quarteirão, o barulho parece da sketch do chaplin , martelos , ferros , motores 
+Fumaça saindo constantemente , algum tipo de maquinaria aburda levando coisas para fora e trazendo coisas para dentro
+O predio claramente tem um design magnifico , mas que não está tendo tanta manutenção, algumas letras estão caidas , a cor está puxando pro cinza 
+Parece um rotary club , chique para 40 anos atras 
+"Peço desculpas pela arquitetura , estamos querendo comprar esses predios a anos e os safados dos inquilinos preferem dormir ao som de martelos do que sair daqui"
+Ao chegar perto do portão de entrada , o principal vira e fala:
+"Ok , deu minha hora , preciso ir embora"
+"Ahhhh , que tristeza , espero poder te encontrar denovo, e estamos de porta aberta se quiser fazer o teste a qualquer hora"
+Ele dá um tchauzinho com a mão enquanto o principal vai dando uma leve ré
+"Tá , isso era um teste. Queria ver o quão desesperado você estava para eu entrar , e se você cumpriria sua palavra"
+Eles seguem para dentro da fabrica e o homem vai explicando oque eles fazem lá e o porque da alta necessidade de mão de obra
+"Para produzir UMA comilula, o genio criador da mesma , demorava 1 dia e meio , mas hoje em dia ele obviamente não trabalha mais produzindo-as , e não temos um genio mecanico COM poderes de se reduzir , então precisamos de um genio , um mecanico e alguem com poderes de se reduzir , e isso vale para a maioria dos nossos produtos"
+"Já adianto , não tenho nenhum conhecimento teorico sobre quase nada"
+"Mas aqui não existem poderes inuteis , desde a parte administrativa até o chão da fabrica nos precisamos poderes são uteis"
+eles estão passando pelo chão da fabrica e o principal vê varios trabalhadores , não parece um cenario abusivo , parece um cenario de uma fabrica
+ele se vê em frente a uma porta com um vidro fosco ecrito no meio "Teste de poderes"
+Ao entrar , é só uma sala com uma cadeira
+"Isso me parece muito esquisto , não sei se eu fico confortavel aqui"
+"Podemos fazer o teste aqui fora se você preferir"
+Enquanto ele fala isso , se ouvem martelos gritos , motores , oleos , faicas , tudo ali
+"VocÊ pode me provar que não tem nada demais nessa sala?"
+o Homem entra e senta na cadeira
+"Se você quiser fazer o teste em pé eu agradeço , ficar o dia inteiro em pé me cansa"
+o principal entra na sala e eles começam a conversar , o principal em pé
+"Me conta mais desses seus gritos , você sente eles em algumas horas especificas?"
+"Sim , mas não sei oque tem de comun entre elas, obviamente quando me concentro nas mesmas elas ficam mais fortes"
+"Ok , pode tentar se concentrar nos mesmos denovo?"
+"Posso , mas não sei se é o barulho da cidade , mas quanto mais eu cheguei perto , mais os gritos diminuiram"
+ele fecha os olhos e começa a se concentrar no barulho
+"Calma , usa isso aqui" fala o homem , e entrega para ele dois abafadores de som
+"Boa!"
+Logo que ele começa a se concentar , agora fica muito mais nitido que realemnte os gritos diminuiram
+Mas não parecem gritos , parece um grito constante , que soa como um grito quando ele começa a se concentrar
+parece varios rios ao mesmo tempo , inumeras tvs chiando e ele fala
+"Ajudou muito os abafadores , consigo me concentrar no som direito , e não são gritos , são sons , varios , inumeros , que viram indistinguiveis"
+ele olha pra cima e ve que o homem está falando algo enquanto anota
+ele tira os abafadores
+"Desculpa , oque?"
+"Eu disse pra você tentar focar em algum som ,e tentar puxar ele pra perto"
+"Puxar pra perto? é um som"
+"Eu sei , faz parte do processo"
+ele coloca os abafadores e tenta. Com os olhos fechados ele tenta separar os sons eaté consegue puxar um leve zumbido que é mais agudo ele esboça um sorriso e tenta abrir os olhos
+mas não consegue , e de repente tudo volta a aparecer
+aida com os abafadores ele vê o homem com uma cara de susto 
+"Oque que houve? Eu fiz algo"
+"Tá vendo essa lampada? acima dela tem sombras , aonde a luz não chega. Você simplesmente trouxe a sombra pra baixo e por alguns segundos eu achei que eu ia teleportar"
+"Teleportar?"
+"E um jeito bonito de falar morrer , porque a gente não morre"
+"Não?"
+"Você não morreu até agora? que sorte a sua. Mas se o seu corpo parar de funcionar completamente , seu cerebro parar , você é teleportado para algum cubo aleatorio"
+"Doidera"
+"Tá , seus poderes são de sombras, bem unico. pode tentar formar algo com ela?"
+O principal se concentra na parte de cima do quarto que estão ,e tenta se concentrar no barulho dele
+ele tenta puxar parte pra ele , e instantanemente uma faca dropa do teto e cai em cima do homem
+"Ok , você ainda tem suas duvidas sobre esse lugar , e aparentemente oque você cria está ligado ao que você está pensando. Será que você consegue tentar fazer algo fisico? a sombra tocar em alguma coisa?"
+Ele tenta de novo , imagina um bloco saindo das sombras e ele consegue 70%, até ele se desconcentrar e fazer o bloco cair agressivamente em cima do homem
+"Você ainda precisa entender oque é alguem malvado nesse mundo, hehehe....."
+"Olha, eu nunca vi esse seu poder , e tambem nunca tinah acontecido essa resposta do teste antes"
+"Seu poder é inutil , pelo menos pra gente."
+"Nossa , que carinhoso"
+"Desculpa , eu entendo que não é a forma mais sutil de se falar , mas seus poderes são oq a gente chama de "puro-entretenimento" , a gente precisa de qualquer coisa fisica( oque normalmente engloba 99% das pessoas). Sabe , gerar calor , gerar frio, fazer algo crescer , algo diminuir , serio estou falando da maioria dos poderes aqui"
+"Qual é o seu poder então senhor?"
+"Eu falo oque as pessoas querem ouvir, fui um psicologo minha vida inteira e sempre tive esse poder , minha vida não mudou muito morrendo"
+"Então é por isso que você é tão... cordial?"
+O rosto do homem da uma relaxada , ele não parece cansado, parece que estava segurando o ar no pulmão e acabou de soltar
+"Normalmente as pessoas gostam de ser bajuladas , impressionantemente , fiquei impressionado que com você eu só precisei... bem , ser do bem"
+A cara do principal fica vermelha
+"Ahhhh , para"
+"Faz sentido seus poderes serem teatrais , nos até poderiamos te contratar para fazer alguns eventos como "palhaço" , mas você não merece isso. Não vai ser pago bem o suficiente"
+"Pago? eu não sei se eu to entendendo muito bem como funciona aqui , mas se você não morre , pra que você seria pago?"
+"Se você morrer de fome , provavelmente irá parar em algum bloco , morrendo de fome, sozinho , tendo que andar kilometros até o proximo bloco. onde você pode simplesmente ser morto denovo por alguma tribo psicotica. Olha , resumindo , você vai sair dessa cidade e voltar pra loucura que é o resto desse plano sem comida , sem nada"
+"Oque o dinheiro ajuda?"
+"Não pagamos somente em dinheiro , é só parte. Nós garantimos moradias melhores, comilulas para até 1000 anos, segurança na maioria dos eventos , você é liberado de comprar carros. Assim , sei que tem varias coisas que você ainda não entende por estar aqui a..."
+"Não sei direito , uns 2 meses?"
+"Jesus , mas você vai entender , a vida não muda tanto, só algumas regras foram trocadas. Olha , realemnte gostaria de te explicar , mas como eu disse , existem pessoas realmente malvadas nesse mundo , e meu chefe é uma dessas pessoas , preciso de mais 2 trabalhadores pra hoje , então peço desculpas"
+"Isso são os poderes?"
+O homem olha com uma cara de obviedade e solta um leve sorriso
+"Não"
+O homem leva o principal de volta de onde eles vieram e vai explicando coisas durante o caminho
+"O trabalho aqui não é horrivel , por exemplo a Raissa , ela só tem que ficar parada dentro de um cubo por 5 horas , fazendo literalmente oque ela quiser"
+"Top"
+Eles estão chegando mais perto da entrada
+"Olha , tem algumas coisas que você precisa ver , mas você eventualmente vai descobri-las , mas pra começar , indico você ir ao museu lumiere , lá eles contam exatamente como foi a cronstrução disso aqui tudo"
+"Aond..."
+O homem aponta pro edificio principal com uma enorme fonte de luz e como eles estão mais perto ele consegue ver escrito
+"Lumiere´s museu"
+"Ahhhhh , faz sentido"
+O homem levanta sua cartola em um sinal de despedida
+"Nem perguntei seu nome"
+"Arthur, mas aqui eu só sou o homem. Espero sorte nesse começo da sua aventura , e nós da Farbs & Fabs estamos sempre de portas abertas"
+Os dois se despedem enquanto o portão se fecha
+Ele confere novamentre o centro da cidade , e ele está bem mais perto do que quando estava na borda do cubo , mas olhando para as ruas até lá , parece que o caminho vais ser mais longo
+Enquanto as ruas mais pra tras , a vida acontece de forma natural em todos os lugares , aqui a vida foi dividida 
+A parte ruim está nas ruas , enquanto as partes boas estão dentro dos predios 
+as ruas principais são puro caos devido aos carros voadores , transformando uma avenida em 5, uma em cima da outra
+Antes de sair andando , o principal olha pra camisa que está usando e tenta se concentrar nos barulhos dentro dela , e com isso começa a sair um filete preto pelo seu braço , que chegando a sua mão se torna uma faca , uma faca bem agressiva e visualmente assustadora
+"Acho que isso possa me ajudar a chegar lá , posso não conseguir encostar em ninguem , mas ninguem precisa saber disso"
+Ao começar a andar pela rua se vê muitas pessoas com as caras amrradas andando , paradas , se olhando
+o clima de tensão no ar é alto
+
+(ESSA PARTE AQUI NÃOD A PRA ENTENDER NADA , É UMA BRIGA DE TRANSITO ONDE OS DOIS SÃO INSTANTANEAMENTE TELEPORTADOS PARA SEU "JULGAMENTO")
+Ele vê duas pessoas discutindo do outro lado da rua , onde elas estão brigando sobre algo que aconteceu e eles estão apontando um rpo outro falando que o outro está errado
+a situação começa a escalar e um dos dois é empurrado pra rua (onde está um transito)
+No que ele está na rua do lado de um carro , que ele bateu quando foi empurrado.O que empurrou faz um movimento como se estivesse jogando uma faca e visualmente o ar vai como uma lança em direção ao homem , que quase instantaneamente se trava e visualmente fica mais pesado , seus pés começam a forçar o concreto em baixo dele e seu corpo fica rigido
+mas antes que a "faca" consiga chegar ao homem os dois são instantaneamente teleportado
+"FILHA DA PUTA"
+O dono do carro que foi atingido sai do carro olhando oque aconteceu com o carro dele 
+Ele vê o amassado feito , que não foi tão absurdo assim
+Ele tira sua boiná e começa a mexer em alguns botões na porta da frente o carro se desliga , vai pra calçada e sobe a um nivel onde as pessoas consigam passar por baixo
+Enquanto isso o principal continua andando 
+(ACABOU A BRIGA)
+
+O medo grita dentro do corpo , mas o mesmo o faz não transparecer nada 
+observando cada pessoa que se aproxima, ele não consegue mais olhar os predios e tentar entender oque está acontecendo ou como funciona a cidade
+o unico objetivo dele é não ser confrontado, nem morto
+Ele chega mais perto do museu , onde o numero de tristeza fica cada vez maior , mais gente na rua , mais agressividade aleatoria entre as pessoas
+mas aparentemente o museu é um safe haven , não existe movimentação na entrada , todos os moradores de rua estão virados para o outro lado 
+exite uma aura num raio de 5 metros da entrada , até a calçada parece mais limpa
+ao se aproximar da entrada um respiro de felicidade surge 
+ao pé desse predio enorme a entrada dele parece um cinema , com quatro portas de vidro adornadas em ouro, o carpte vermelho e estações parecidas com bar , parecem uma bombonierre
+ao entrar ele é rapidamente recebido por uma voz:
+"Bom dia principal, vimos que chegou em utopolis recentemente e ficamos extremamente felizes em recebe-lo tão rapido.
+Sei que o caminho até aqui não foi dos melhores, mas lutamos ativamente para melhorar a sua existencia e a dos malfeitores tambem
+Nós da familia lumiere acreditamos na reabilitação de todos, da coordenação que o ser humano pode ter , da harmonia possivel de ser criada"
+indo em direção da bomboniere ele ve um robo (parece uma mistura do grande soldador do filme robos como annoy-o-tron) imovel , desligado
+ao chegar perto o robo se liga.
+Ele acende os olhos e gira para o balcão de atendimento enquanto toca o piano de hotel room do pitbull
+"BEM VINDO AO MUSEU LUMIERE , AONDE SEUS SONHOS ACABAM DE COMEÇAR!!!!!"
+confetes estouram de seu ombro e ele faz uma cara de alivio
+-Nossa esse tava parado a um tempo , que alivio
+Boa tarde Principal , que honra te-lo aqui , em que posso ajudar?
+-Olha, vim aqui descobrir oque é esse lugar eeee, bem , saber oq fazer , como funciona , pra onde ir
+-Essa é a magia de utopolis , você pode fazer oq quiser. Aqui não existem direitos e deveres , existem só direitos
+-Que são?
+-Liberdade plena, mas pra você entender direito , só vendo o museu
+Olhando em volta da sala , exitem quadros onde se passam videos , que olhando mais de perto , são ao vivo da cidade
+"Nossa maior conquista é sabermos que pessoas realmente não querem sair daqui , não criamos só mais um caos em meio a esse plano
+A continuação do museu se encontra dentro do elevador"
+ele olha as cameras mais um pouco e percebe novamente a vida acontecendo , enquanto um casal se beija em um terraço ao por do sol , alguem na rua amarra uma pessoa para levar seus bens
+O principal entra no elevador e ve uma cabine de vidro e olhando pra cima ve a torre que chega até o topo com varias portas para cada andar
+-Bem vindo ao museu lumiere principal, agradecemos a sua vinda tão rapida ao nosso museu , já deu o primeiro passo correto
+Nos da familia lumiere , chegamos a esse plano....
+o elevador começa a subir 
+e ficamos abismados com o caos encontrado aqui , saimos de um mundo caotico , para ganharmos habilidades e não conseguimos melhorar?
+"Não me parece logico", foi oque nosso fundador galileu pensou
+e com isso aqui se criou o primeiro andar desse prédio , um cinema para mostrar as maravilhas da humanidade
+e com a morte de outros genios , nossa familia foi aumentando , e cada vez mais nossos avanços foram se acumulando
+cada andar desse prédio representa 1 ano, galileu acreditava que era necessario o espaço fisico ajudar o cotidiano
+então era trabalhado no andar normalmente , até virar o ano, quando tudo era largado aonde estava , e o proximo andar era ocupado
+mas depois de varios seculos, nossa familia precisou sair daqui e buscar conhecimento em outros cubos , eles se encontram diariamente por uma tecnologia patenteada
+e tem 100% de controle da cidade a qualquer distancia, podendo aparecer agora
+Uma cara flutuante do Darwin aparece e diz
+"Nossa senhora , a quanto tempo eu não faço isso. Boooom dia principal , essa é uma demonstração de que podemos não estar fisicamente presente , mas ainda sabemos oque acontece na nossa cidade"
+"Truque maneiro"
+"Queria eu que fosse um truque, ter que falar com todos os visitantes é exaustivo , mas necessário. Espero que aproveite o passeio , tenho muita coisa para fazer 
+Tenha luz contigo"
+a cara dele da um fade out
+O elevador chega ao ultimo andar
+onde ao entrar , tem um salão oval onde fica a luz q se ve de fora , mas lá dentro tem uma ar de fechado , com quadros nas paredes (Lembra o mini-museu que tem dentro da aperture em Portal 2)
+Ao chegar perto de um dos quadros , a sua visão periferica começa a ser invadida , parece que você botou um oculos Vr
+e em voltaq do quadro se passam videos
+"Quando nicola tesla pensou a primeira vez sobre a possibilidade de carros voadores , sabia que o problema era energia necessaria mas estamos num mundo com super habilidades"
+Se ve o tesla falando com alguem enquanto eles encostam em uma roda de uma bicicleta e no vídeo a bicicleta e jogada aos céus e tesla começa a comemorar
+(Ok um video explicando como conseguiram carros voadores)
+Ele segue para o proximo quadro
+"Ao passar dos anos , se tornou crucial fornecer a segurança das pessoas que decidiram ficar aqui, foi então que MLK trouxe a ideia do grande farol
+Um grande observador de quebra de direitos humanos , do racismo ao homicidio. Ele te traz imediamente para um julgamento fora do nosso espaço-tempo , onde você é julgado pela propria população"
+"Nós da familia lumiere sabemos de todas as incompetências do mundo de que saimos , queremos democratizar a democracia , e isso só se torna possivel com mais tecnologias , que é gerada pelo povo , nós não passamos de pessoas com um objetivo em comum, não temos controle sobre você , ou sobre qualquer um"
+"Qual nosso objetivo a final? permitir que você possa aproveitar esse plano com tranquilidade , ver tudo que tem pra ver, e vivenciar a beleza natural encontrada.
+Atualmente , se sairmos para exploração , não sabemos como voltar , não sabemos se morreriamos mais uma vez logo quando sairmos , não sabemos das torturas que podem ser feitas a nos. Nosso obejtivo é garantir um safe haven em meio a esse caos , mas infelizmente não conseguimos garantir sua segurança ao sair daqui
+Esperamos garantir o quanto antes ,e de coração , se utopolis não for do seu agrado , nos desejamos a melhor sorte do mundo nas suas viagens 
+E se nos encontrar novamente , pedimos que conte oque você viu para conseguirmos avançar aqui tambem"
+Ainda existem quadros a ser vistos mas por algum motivo ele só quer sair dali agora , ele sente que entendeu o jist da parada 
+ele desce o elevador e vai falar com o robô novamente 
+"Acho que eu entendi seu robo, eu to no meio do inferno e aqui é um pedacinho do ceu , ou pelo menos tenta ser"
+"Exatamente , o problema são os habitantes do inferno, é muito dificil faze-los serem coordenados"
+"Acho que agora que eu sei oque tá acontecendo, vou pegar uma casa pra mim e ver oque esse paraíso tem a oferecer"
+no mesmo segundo se ouve um tiro na rua e o barulho do raio beamador 
+O robo olha para roupa do principal
+"Damos essas roupas de presente , mas você vai precisar delas"
+"Precisar?"
+"Já é de noite , você ta no centro de utopolis , não pode se destacar demais"
+Ele joga um casaco preto , umas 3 camisas basicas, um short e uma calça
+"Valeu , qualquer dia eu passo aqui pra ver como você tá"
+"Eu to bem , e vou continuar assim"
+O principal coloca a roupa e sente as sombras em seu corpo , como se fosse uma armadura
+ele faz um movimento rápido com as mãos e consegue fazer uma espada surgir da sua manga 
+"Nice"
+e ele sai em direção as casas de onde veio
+[PASSEIO NOTURNO MOSTRANDO OUTRO LADO DA CIDADE , DROGADOS , PESSOAS BEM VESTIDAS FAZENDO MERDA]
+Depois dessa caminhada ele chega no final da rua e percebe que a rua que estava em construção hoje cedo , já avançou e está quase terminando, como se as casa estivessem se criando sozinhas
+Está bem de noite e ele ta no meio da rua , ele da uma olhada simples nas ruas em volta e não vai nas casas mais novas 
+ele decide pegar uma casa a quatro ruas do começo , onde havia uma leve movimentação quando ele chegou
+OLha para a esquina e vê que está na rua D235 
+Vendo os predios, boa parte deles não tem mais a placa de "prédio novo" , mas nada que seja muito dificil de encontrar
+Olhando por fora , ele tenta encontrar algum predio em que a cobertura pareça desocupada 
+Encontra o prédio 102 , que já não tem a placa , mas parece ter sua cobertura vazia 
+Ele entra pela porta e ouve um cochicho
+"Boa noite principal , que bom te-lo aqui. Como você chegou a noite , não podemos te dar a calorosa recepção esperada , pois não queremos acordar seus colegas vizinhos. Você pode ir para a casa que desejar , são 2 apartamentos por andar , menos a cobertura , que é só um apartamento"
+ele sobe o lance de escadas olhando cada andar e ve que existem pessoas no predio , uma no primeiro e uma no terceiro andar 
+mas realmente , a cobertura está desocupada"
+ele abre a porta da cobertura e vê uma sala com uma varanda, existe uma cozinha americana na sala e um corredor a direita 
+Do teto sai um braço mecânico que começa a falar que nem o weatley do portal 2
+a voz é a mesma que recepcionou ele na porta , e a mesma voz do museu 
+"Bem vindo ao seu lar principal , vejo que você escolheu a cobertura, otima escolha!
+Estarei aqui para tirar duvidas , concertar oque for preciso , lidar com eventuais brigas entre vizinhos hehehe"
+"Opa , Boa noite seu....?"
+"Pode me chamar de armando , um nome comumente utilizado pelos proprietários de imóveis , mas me chame de como você quiser"
+"Ok , vadia"
+O robô vai em direção a porta da casa e sai
+"Qualquer coisa grita hahahahaha"
+Uma tela desce do teto 
+"farbs & fabs novamente não cuidando de seus funcionários , já é a 3 vez nesse ciclo que vemos alguém utilizando a sombra pra exploitar a população , fabs comenta:
+-Não podemos tirar as liberdades de ninguém devido a burocracia, estamos investindo fortemente na educação de nossos funcionários junto com a instituição lumiere para mostrar a necessidade de todos nesse processo de construção de uma sociedade...
+O principal já está com sono, ele não consegue achar o controle 
+"Puta que pariu , eu só queria desligar a tv"
+A tv desliga
+"ok , maneiro"
+o silencio da noite consome a sala , ele só consegue ver o deserto e as estrelas 
+Ele ve uma cama aonde é o quarto e fala
+"Armando , consegue colocar minha cama na sala?"
+A cama começa a andar pela casa e para no meio da sala
+"quero conseguir ver a vista , mas não quero ser atacado pelo sol de manhã"
+A cama para em um canto especifico onde o principal se deita e ve a imensidão do deserto 
+Junto com o brilho incandescente das estrelas 
+e aos poucos ele cai no sono.....
+
+bu... boom... BOOM!
+
+Ele acorda repentinamente e a escuridão do deserto está se esvaindo, está começando a amanhecer
+mas não é isso q o acordou. Ele vê um gigante, mas um gigante diferente
+Ele tem todas as características de um ser humano , só que com 12 metros
+Mas a cara dele está tomada por uma substancia negra , lembra petróleo 
+Ele anda como se fosse um zumbi , com a boca aberta e sempre seguindo para frente
+Ele está relativamente longe ainda , mas vem em direção a cidade 
+O barulho não foi do gigante , mas sim de um grupo de pessoas que está lutando contra esse gigante
+está bem longe então não se consegue identificar cada um, mas é visível que existe uma pessoa enfiando a porrada no gigante , mesmo com 1/6 da altura dele
+Essa pessoa está pulando arrancando e batendo no gigante , até que o mesmo segura ele na mão e parece tentar esmaga-lo , como se fosse uma uva
+no que o dedo está descendo para esmagá-lo , uma outra pessoa surge da terra com um momentum incrível , chegando até a palma do gigante e resgatando o que batia
+nisso , ele vê uma moto correndo em direção a batalha que ao chegar perto para , e o homem que veio da terra sai perto dele, eles aparentam trocar poucas palavras e o da terra volta para a briga
+Eles parecem dar uma enrolada em frente ao gigante, e logo depois o grandalhão volta em direção a cabeça do gigante e sobe fervorosamente até o topo da cabeça , aonde ele soca e o gigante parece desligar instantaneamente
+assim que o gigante cai ao chão , o grupo se junta na frente do corpo caído dele
+e da pra ver que tem mais gente do que só os 3 , existem umas 7 pessoas
+O principal tenta descer correndo para ver se consegue conversar com algum deles
+Ao descer e atravessar uma rua que acabou de começar a ser construída , ele ve somente a moto indo em direção a cidade , mas passando a alguns quilômetros do principal 
+Ele vê o amanhecer no deserto enquanto acompanha a moto até uma casa abandonada
+Está longe para ver com detalhes , mas a casa é única o suficiente para ser lembrada
+Na volta pra casa , o sol já está quase completo no céu, o principal pergunta "Armando , sabe o endereço de uma casa na beira da cidade , coberta por plantas , com aspecto de abandonada" 
+"Qual dessas" - armando mostra uma lista com a foto de varias casas e no meio dela o principal consegue identificar a casa e pega o endereço
+Armando , me mostre um mapa da cidade e uma rota daqui até o endereço fornecido
+Armando mostra o mapa da cidade
+A cidade parece um circulo que cresce irregularmente , no meio o museu dos lumieres
+o trajeto segue pelo lado de fora da cidade , onde o principal está é uma das partes do circulo que cresceu mais , enquanto a casa está bem mais perto do museu mas continua no limite da cidade
+"armando , antes de partir , só pra eu saber. onde que eu arranjo um maço?"
+armando disponibiliza um maço de "deathsticks" " se o senhor desejar , posso fazer o escambo de suas comilulas por um box"
+"nossa , claro" , e abro a maleta com as comilulas
+com isso o principal sai em sua missão , o dia acabou de nascer 
+O sol deveria estar rachando a essa hora em um deserto, mas existe algo q parece um domo que tem uma superfície translucida , que para parte dos raios solares
+o principal acende um cigarro , e vai andando em direção a casa 
+O caminho consistem em casas idênticas por boa parte , até chegar em uma área que do nada acaba as casa e se tem um espaço enorme vazio , com casas destruídas e uma vegetação mais presente que humanos
+No caso , os humanos vistos na área estão todos se escondendo , todos com um aspecto horrível
+O endereço da casa é depois dessa área, ou o principal da a volta inteira na cidade , ou ele passa por essa área 
+Instantaneamente ele "saca" uma faca enorme para seu punho , dessa vez a faca está com uma cara muito mais mortal q	eu o normal , com o hilt extremamente desenhado , a lamina maior e com serras
+O principal não se incomoda com essa versão mais bolada da arma e começa a andar
+O medo não é exatamente das pessoas , elas conseguem ser vistas nas ruas completamente vazias perambulando , sendo fácil de prever seus movimentos
+O medo vem de não saber onde ele está e porque ninguém mais passa lá
+O principal se esgueira pelas ruas , tentando ao máximo ir pela beira desse "bairro"
+ao passar em uma encruzilhada , ele ve um grupo de três homens em um beco 
+Um dos homens está em pé fumando um cigarro
+enquanto os outros dois estão abaixados , aparentemente mexendo em algo no chão
+O principal segue seu caminho , tentando não olhar para os homens
+Ele tentando olhar para rua e andar , e ver se os homens decidiram encrencar com ele
+Não podendo acelerar o passo parar não gerar suspeitas ele segue seu caminho e depois de 1 minuto andando ele olha para trás para ver se a alguém o acompanhando
+ao olhar com o canto do olho para trás , ele vê o homem de pé só conferindo se algo iria acontecer
+depois de um milissegundo de troca de olhar , os dois seguem seus caminhos
+e depois de mais uns 50 metros andados ele olha para tras novamente e ve uma fumaça saindo do beco
+Nada que o faça ter vontade de ir lá conferir oque estava acontecendo
+Continuando sua caminhada , e refletindo sobre o seu dia nessa cidade 
+Poderia ser que aqueles caras não estavam fazendo nada de errado
+mas se fizeram , como que eles não foram sugados automaticamente para o tribunal
+Ontem uma leve discussão na rua já fez os dois serem levados a julgamento
+mas parece que essa região não é afetada 
+Tem mais umas sete quadras até chegar na casa
+e o caminho não muda tanto, as poucas pessoas na rua parecem querer distancia tanto quanto você
+todo encontro com alguém está a no minimo duas ruas de distancia
+uma esquina revelou uma mulher coberta por um cobertor andando em direção ao principal, do outro lado da rua
+os dois param e se olham
+o principal para no lugar
+a mulher faz mesma coisa
+o principal da um passo para tras 
+a mulher toma muito cuidado, mas da um passo na direção que ela estava andando
+o principal continua dando seus passos para tras , conferindo se a alguém na calçada junto com ele
+a mulher anda normalmente até passar o principal , do outro lado da rua 
+e no segundo que ela passa dele , ela sai correndo
+sem gritar nada , sem olhar para o principal
+ele espera ela estar longe o suficiente e volta a sua caminhada
+agora ele já consegue ver a casa 
+parece um galpão abandonado
+plantas cobrem ele por completo
+e aonde deveria ser uma entrada , existe um painel de madeira pixada com milhares de frases
+Agora ele não sabe muito bem oque fazer
+O galpão não parece ter nenhuma movimentação , e a rua está completamente vazia 
+Parece que a melhor forma é tentar mexer nesse painel de madeira
+e ao tocar se percebe que ele está solto , só apoiado
+ele puxa o painel , tomando cuidado para não derrubar , só abrir espaço suficiente para que ele possa entrar
+ele consegue ver a parte de dentro do galpão , e nenhum sinal de nada
+a moto que entrou aqui mais cedo não está aqui
+ele entra para averiguar , o galpão não parece ter sido tocado em anos
+não existem marcas no chão nem em qualquer lugar de alguma passagem humana , e a folhagem toma conta
+tentando achar algo que possa resolver suas duvidas ele para no meio do galpão e sente uma vibração dentro de seu ouvido
+e em um segundo essa vibração se transforma num som ensurdecedor e tudo fica preto
+
+
+-PORQUE VOCÊ NÃO LARGA O NOSSO PÉ!!
+Um velhote de túnica azul e pelos faciais de um monge karateka da um tapa na cara dele enquanto ele acorda
+-AHHHHHHH , EU NÃO SEI DE NADA. FOI MAL , DESCULPA , EU JURO QUE EU NÃO SEI DE NADA 
+PELO AMOR DE DEUS NÃO EM MATA
+-Que?
+O velho fica com uma cara de perdido e faz um sinal para trás dele
+ele apoia a cadeira que eu estou sentado nas duas pernas de trás , me fazendo olhar pra cima
+-Olha senhor jovem cabeludo , você tem um tempo limitado pra explicar como você chegou aqui e porque 
+-OLHA EU CHEGUEI AQUI ONTEM E TO TENTANDO ENTENDER QUE LUGAR É ESSE
+HOJE DE MANHA VI UM MONTE DE GENTE LUTANDO CONTRA UM GIGANTE E VI ELES ENTRANDO NESSE GALPÃO 
+EU SÓ QUERIA SABER OQUE ESTAVA ACONTECENDO
+O Velho
+-QUAL SEU PODER JOVEM?
+-EU FAÇO SOMBRAS (um efeito ridículo surge no ar como um passe de magica)
+O velho pega um cano e desce ele com todas as forças na minha cabeça
+Fecho os olhos e não sinto o cano chegando na minha cara
+ao abrir vejo que o velho só quis me assustar
+ele está me olhando com uma cara de intrigado
+eles trocam olhar durante alguns segundos
+e parece que o velho vai dar uma chance para ele
+ele deixa a cadeira na posição normal
+-Olha ,75% das pessoas aqui não gostam da gente. e parte dessa população tem o poder de deletar qualquer um de nois em uma fração de segundo. peço desculpas que você não vai poder saber oque acontece aqui 
+-Olha , eu vi você... alguém, lidando com aquele gigante.... eu entendi que o objetivo desse plano é fazer algo que você realmente gosta, e aquilo foi uma das coisas mais iradas que eu já vi
+A cara do velho volta a ficar franziada
+-"Irada" , é isso que você viu? qual parte de a gente querer ser morto por todo mundo nessa merda?
+-Eu não sei oque a aqueles gigantes querem com você , mas pareceu fácil lidar com eles
+-O problema não é aquele gigante , aquilo é literalmente o menor dos problemas , mas o único que a gente realmente quer resolver.... (o velho olha para tras) pelo menos oque EU quero resolver 
+- Olha , isso ta me gerando mais duvidas , e aparentemente eu não posso saber oque vocês fazem. Você quer que eu vá embora? eu vou
+-Porque você quer ir embora? jesus , esses caras não sabem nem atuar... chama a isabela 
+ele olha pra cara do velho e o velho da um sorriso
+uma garota encasacada com mexas rosas e azuis no cabelo aparece, ela aparece bem tímida 
+-me chamou?-disse a garota
+-Precisamos saber se esse cabeludo ta falando a verdade
+-não credito , isso de novo. eu já falei que odeio isso
+enquanto isso o principal olha os dois discutindo
+-essa não vai demorar tanto , só pega no dedo dele 
+isabela da um passo em minha direção e meu corpo gela 
+a cada passo que ela dá parece que meu corpo sente o medo vindo
+e no segundo q ela encosta no meu dedo eu sinto a pior sensação da minha vida
+instantaneamente solto um grito ensurdecedor
+começo a chorar loucamente 
+parece que meu dedo acabou de ser engolido por dez sois
+só vejo o velho na minha frente gritando enquanto isabela toca na ponta do meu dedo
+não consigo destinguir oque ele fala , a dor é forte demais
+-EU TO FALANDO A VERDADE , EU SÓ SOU MALUCOD E VIR AQUI NÃO CONHEÇO NINGUEM PELO AMOR DE DEUS EU TE LEVO NA MINHA CASA , EU TE DOU TUDO QUE EU TENHO , SÓ PEDE PARA ELA ME LARGA AHHHHHHHHHHHHH
+Isabela larga e eu não sinto mais meu dedo
+O velho olha para ela com raiva
+-Quem mandou você parar?
+-Olha a cara dele velho , ele ta falando a verdade 
+-É SERIO , EU LEVO VOCÊ PRA VEREM OQUE VCS QUISEREM DA MINHA VIDA , PODEMOS IR NA MINHA CASA QUE É A UNICA COISA QUE EU TENHO AQUI PELO AMOR DE DEUS SÓ TIRA ESSA MULHER DAQUI
+O velho para um pouco e parece estar pensando
+isabela olha para mim
+-Me desculpa por isso...
+Ela ta com a cara bem triste
+-Eu até falaria para não se preocupar mas realmente não sei oque que está acontecendo aqui
+O velho olha para mim
+-Olha , em vez de você levar a gente para sua casa e PRENDER a gente lá. você vai ficar aqui , preso
+-Você é completamente maluco mesmo- isabela fala para si mesma
+-chama o gustaff 
+-Cara , pode me prender , só não em fala que esse gustaff é pior q a isabela
+-infelizmente você não vai ser torturado por ele
+Abre a porta um jovem adulto , troncudo , parrudo , mas baixo
+-gustaff , leva esse moleque pra jaula
+gustaff segura o principal pelo braço e levanta como se não fosse nada
+O princiapl sente como se estivesse preso por barras de metal , os musculos do cara não dobram
+gustaff tira o principal dali e joga dentro de uma gaiola , aonde parece ser uma sala principal, a gaiola fica no canto
+gustaff espera do lado de fora da gaiola enquanto o velho vem atras com suas perninhas curtas e vem até as grade para olhar o principal
+-Olha , eu definitivamente não sei oque você quer aqui. mas você vai me falar
+-CARA , EU JÁ FALEI , VI VOCÊS ENFIANDO A PORRADA EM UM GIGANTE E FIQUEI CURIOSO. ISSO É TÃO DIFICIL DE ACREDITAR?
+Gustaff olha para o velho
+-Eu falei que foi irado... - Gustaff
+-E EU FALEI QUE NÃO ERA PARA SER . O DIA QUE VOCÊ TENTAR SER IRADO E A PORRA DA ISABELA MORRER, NÃO VENHA CHORAR PRA MIM - Velho
+-Jesus cristo vocês aqui realmente se amam
+-CALADO ESPIÃO -Velho
+Um silencio ensurdecedor toma conta da sala
+-Olha , o dia hoje já foi estressante e eu não to conseguindo pensar, se organizem para alguem vigiar esse cara durante a noite, a gente não sabe os poderes dele
+-Sinceramente eu tambem não sei....-principal
+O Velho sai da sala 
+Isabela e Gustaff se olham e começam a discutir quem deve vigiar o princiapl durante a noite, mais alguns nomes surgem nessa conversa , dando a entender que existem mais algumas pessoas aqui
+(sinto que estou no instituto xavier se fosse uma escola publica)
+-Opa , Boa noite. Não sei se o problema de ficar aqui comigo é ficar aqui ou ficar comigo. Juro que eu vou tentar ao maximo não encher o saco de ninguem, eu literalmente não tenho mais nada para fazer então eu to suave de ficar aqui
+-Você e todo mundo não tem mais oque fazer , esse mundo a brincadeira é essa
+-Mas tem gente que trabalha aqui... em fabricas ... parece uma rotina
+-Você acha que estavam pedindo pessoas na rua porque? se amanha todos os funcionarios andarem 500 km p qualquer lado , a fabrica quebra.... nada nesse mundo é baseado nos outros, você cai na rua e bate a cabeça ninguem nem ve seu corpo e você só some. tem gente q tem um infarto na rua, passa 500 anos procurando a familia , para quando achar todos eles acharem que ele tinha fugido , e virou um inimigo. Serio , não sei como o mestre acha que você realmente é um espião
+-Isso que um espião faria você pensar.... -isabela 
+-É foda- Gustaff
+-É complicado mesmo - isabela
+-Ta , entendo que tem gente querendo fuder com vocês , mas porque?
+Os dois se olham e tem uma conversa pelos olhares 
+-Mesmo sendo um espião isso ele pode saber... Olha, nessa putaria de mundo muitas coisas ruins acontecem , e o mestre foi um dos caras a se levantar contra isso...
+- Nossa você é um pela mesmo , ele só juntou gente para fazer isso regularmente....
+-De qualquer forma... algo aconteceu que agora as historias falam como se essas coisas ruins fossem causadas por nós. Pega qualquer jornal hoje que esteja falando desse gigante, vai estar escrito algo tipo "Novamente grupo de baderneiros luta contra um gigante e causa destruição em área periférica". E realmente , houve destruição...
+Gustaff trava sua fala e da um leve soluço , segurando uma lagrima singular
+-Assim , aqui a gente não tem muito de " ah mas porque isso ta acontecendo" , veio um pequeno exercito correndo pra cima da cidade, a gente vai estar na linha de frente , e se eles não pararem para conversar , o pau vai comer. E hoje o gigante foi isso , ele só apareceu , e não parecia ter muito objetivo a não ser destruir 
+-Hmmmm , ótimo , agora confirmei que você vão para cima de qualquer coisa , meu trabalho está feito.....
+Os três ficam sérios por um segundo e o principal ri , fazendo os dois soltarem uma leve risada de alivio
+-Olha , se for fuder vocês ficar aqui conversando comigo , eu entendo , o chefe de vocês é um saco
+-Chefe é uma palavra forte... pode ficar tranquilo , eu vou ficar aqui isabela... -gustaff
+-ahhh , brigado gu , vc é foda. Se precisar de qualquer coisa eu vou estar no meu quarto
+Logo que a isabela sai do quarto...
+-Cara , que porra foi aquela. eu nunca senti nada igual no meu dedo, q porra era aquela
+-Todo mundo sempre fala isso , e por algum motivo tenho uma curiosidade enorme pra saber que porra é essa. Mas é simples , o corpo dela ta a 0 kelvin
+- nossa senhora , isso faz muito sentido... então porque ela não foi la no gigante sozinha e matou ele.
+-O corpo dela ta a 0 kelvin cara , ela n solta gelo pela mão
+-Cara 0 kelvin vc consegue congelar a humidade no ar , claro que da pra lançar gelo
+- Falou o cara que controla sombras para fazer marionetes
+A gentese encara por alguns segundos e eu vejo que realmente ele tá certo
+-Você eu ja saquei que é super forte
+-Queria eu que fosse simples , eu sou uma maquina. tipo , literalmente sou feito de carbono ferro e tudo que se encontra em uma fabrica. Eu consigo por exemplo exercer a pressão de uma prensa hidraulica nos meus dedos 
+-mas assim , o seu corpo ainda respeita as regras de um corpo normal?
+-Não , meus ossos conseguem girar 360 graus entre si , oque me permite de eu mesmo me quebrar todo
+O principal olha com uma cara de duvida
+-Tipo , se eu pegar meus ossos e começar a girar eles , eu vou acabar virando uma bola de metal irreconhecível, Olha
+Gustaff estende a mão dele e começa a revivar os dedos da mão dele , oque dá uma vontade bizarra de vomitar
+-JESUS CRISTO PARA COM ISSO
+Gustaff da um estalo em sua mão voltando a sua forma normal
+-Agora você imagina isso no meu corpo todo , nos meus 200 ossos
+-Nem continua flando q a imagem não vem legal
+Gustaff olha para os lados para conferir se alguém consegue ouvir e pergunta sussurrando:
+-Mas e você , o quanto você sabe dos seus poderes?
+-Porque a gente ta falando baixo? e oque eu sei é oque eu te mostrei 
+-Mesmo você agindo como um coitado , você realmente pode ser um filha da puta mentindo muito, e se o mestre ficar sabendo que eu to perguntando dos seus poderes ele me mata
+- Cara , meu poder realmente não faz nada. eu nem sei controlar oque eu faço , parece que eles só aparecem dependendo de como eu sinto
+- O numero de vezes que essa frase já foi falada aqui.... Você entende que você faz parte de como você se sente. tudo isso sai da sua mente... tenta fazer algo ai
+O principal está sentado agarrado em seus joelhos no canto da gaiola , ele fecha os olhos e estende a mão tentando fazer algo surgir em sua mão , e nada
+- O seu poder não tem a ver com sombras? tenta botar sua mão na sombra
+O principal estende a mão em um canto banhado por sombras e imagina uma caixa em sua mão
+A caixa surge , os dois trocam um olhar e ao olhar de volta pra caixa um palhaço de brinquedo salta de dentro e aparece escrito "otario!" e a caixa some
+-Eu juro que não controlei isso
+-Eu sei , o otario definitivamente foi para você. Faz a caixa de novo
+O principal volta com a sua mão para o canto banhado em sombras e imagina a caixa novamente
+Assim que a caixa surge na palma da mão dele , gustaff liga uma lanterna e aponta para a caixa
+Instantaneamente a caixa some e quando a luz é desligada , uma forma ainda está na mão dele por 1 segundo , mas logo vai embora
+-Ok , chegamos a algumas conclusões; SE VOCÊ TA MENTINDO , PARABENS; e realmente seu poder é baseado em sombras , tipo a falta de luz em algum lugar
+Você sentiu alguma coisa quando o cubo sumiu?
+-Senti , mas não foi bem um sentimento , parece quando você esquece algo que estava na ponta da língua
+-E isso não é um sentimento?
+A sala fica em silencio....
+-Que é é né mas.....
+-Eu sei , só to repetindo oque o mestre fala com todo mundo aqui. todo mundo nasce achando que seus poderes são uma bosta , mas você tem que ir testando e descobrindo suas limitações. Não significa que um dia você consiga ser tão poderoso quanto uma joana darc da vida , mas da pro gasto
+-Eita , qual o poder da joana darc?
+-Ela é basicamente a mística , mas o nível que ela chega é bizarro , porque oque limita ela de virar alguém? ela simplesmente vira o sol se ela quiser e acaba completamente com o cubo que ela tiver
+-Caralho ela já fez isso? 
+-Não que eu saiba , mas já tentaram segurar ela , e ela sempre usa essa ameaça... a gente não sabe onde ninguém ta nesse lugar , mas ela sumiu por completo, ela só virou alguém desconhecido e ta andando por ai....
+-Tá , então a gente tem alguma noção dos poderes baseados em cultura pop....
+-Exatamente , esse é o problema. Joana darc n faz a menor ideia de quem que é a mística , então ela só se viu se transformando e virar uma pessoa não impediu ela
+-Então aquele negocio de soltar gelo entra nesse assunto
+-Correto. A isabela nem veio pra cá , o mestre só sentiu ela a algumas quadras de distancia, o corpo dela está constantemente a 0 kelvin , mas é tudo uma projeção dela para a própria proteção... foi o mês mais frio que já teve por aqui , mas agora eu tenho uma grande amiga.... Se não fosse o mestre alguém provavelmente teria só matado ela e nem deus consegue imaginar oque que aconteceria com ela andando por ai e congelando tudo
+O principal ta juntando algumas peças e ele vê que o velho é algum tipo de mentor dessa galera , que por algum motivo sai por ai enfiando a porrada em monstros enormes
+- E é por isso que você não quer falar sobre os meus poderes... ele tem medo que você me ensine a conseguir sair daqui
+-Faz sentido não faz? eu queria poder te ajudar mais , mas primeiro tem essa questão de eu ser morto pelo mestre e segundo que realmente eu não sei ajudar , só copiei coisas que me passaram
+-Te matar? é serio q vocês tão assim?
+-Não , ele não mata. Mas lembra que a gente é odiado aqui? Não tem como ele me impedir de ficar seguindo eles e ajuda-los nas lutas , mas eu com certeza não seria bem-vindo, e se eu não fizer isso vai ser uma luta diária só pra ficar vivo...
+a porta da sala aonde ele estão abre e um vulto sai voando e paira em cima de gustaff em um milissegundo a forma se concretiza no mestre , ele está dando um super onze na nuca de gustaff , ele não teve tempo nem de reação   
+Ele está conversando comigo e de um segundo pro outro a cara dele ta no chão
+-VOCÊ REALMENTE NÃO ESCUTA MINHAS ORDENS NÉ SEU FILHA DA PUTA
+-Foi mal mestre.....
+- Vamos , aparentemente tem outro gigante no mesmo lugar
+-Puta que pariu dois no mesmo dia , se vier o terceiro a gente precisa ver de onde eles tão vindo
+- Primeiro vamos lidar com o problema atual , depois pensamos no futuro.... E você , muleque , se você conseguir sair daqui , é melhor não aparecer na minha frente , que eu vou te matar
+-Ok ok , sem gracinhas da minha parte
+Gustaff e o principal trocam um olhar , que fala "vai lá , o dever te chama" e "Foi mal por isso , é foda"
+e com isso o principal ouve oque parece um batalhão andando pelo corredor na frente da sua sala e logo em seguida.... silencio
+é um silencio diferente , ele sente que não está no mesmo galpão que entrou na parte esquisita da cidade
+Não tem barulho de um carro , de uma pessoa , passos de ninguém acima
+O jeito que os passos sumiram foi diferente também , não deu para escuta-los diminuindo ao longe , de um momento para o outro tudo só se calou
+Do jeito que esse mestre é deve existir um puta de um isolamento acústico aqui , e com certeza eu não to no galpão , não iria ser tão fácil assim seguir eles
+O principal tenta juntar oque escutou do cara da farbs & fabs com oque escutou do gustaff 
+depois de algumas semanas escutando os "gritos" , agora eles são postos em segundo plano na cabeça dele
+Ele senta na parte coberta por sombras da gaiola , fecha os olhos e se concentra nos sons
+Aqui os sons são muito mais tranquilos , como uma cachoeira
+Numa cachoeira não existe nada que impulsione a agua para frente , mas só o fluxo dela já gera um som alto
+Mas aqui só existe o som da cachoeira , é muito mais uniforme do que qualquer lugar que ele já foi
+Ele se concentra na cachoeira 
+Ouve o Som
+Pensa em uma cachoeira 
+Respira
+Inspira 
+Respira
+Abre os olhos
+PUTA QUE PARIU EU TO FORA DA GAIOLA
+Ele tenta se localizar , ele vê um corredor que parece um escritório , chão de carpete com inúmeros cubículos com portas , realmente não parece ter uma saída por onde ele vê , os dois lados parecem dar no mesmo
+O nervosismo começa a bater , se eles voltarem agora realmente vai parecer que ele é um espião
+E se ele conseguir sair daqui , eles com certeza vão atras dele e o gustaff vai sofrer 
+Rápido , ele senta no chão e tenta se concentrar na cachoeira de novo 
+Ouve os sons 
+Respira
+Abre os olhos
+Mesmo lugar 
+Ou pelo menos parece o mesmo lugar , o corredor realmente é idêntico de ponta a ponta
+Os sons começam a aumentar na cabeça , e ele realmente não sabe oque fazer 
+puta que pariu que situação
+"acho que o melhor a se fazer é tentar achar minha gaiola e ficar tentando entrar nela de novo"
+então ele tenta se manter calmo ao caminhar e procurar a gaiola 
+Mas não dura umas 3 salas , e ele começa a apertar o passo
+Puta que pariu todas as salas são idênticas , e nenhuma parece a sala que ele estava 
+o corredor não parece acabar
+cacete ele não sabe oque fazer
+"puta que pariu 
+ahhhhhh
+alguém me mata"
+Só resta ele tentar aparecer em algum lugar que ajude ele
+Ele ta nervoso , ele sabe
+aparentemente calma é parte do processo
+Ele tenta se acalmar , pensar nas horas que passou com o velho da comilula
+ele senta encostado em uma das paredes de drywall , aonde a sombra engole ele
+Ele senta , e se concentra nos sons
+De olhos fechados , ele percebe que os sons estão muito mais perto do que antes , é como se eles estivesse dentro da cachoeira
+enquanto antes parecia que ele estava em alguma pedra escutando a mesma
+Ele tenta se concentrar na calma 
+pensa nas ondas quebrando 
+pensa nos gritos chamando ele nadando em direção a borda
+na verdade melhor não
+pensa no vento
+nas ondas quebrando 
+nos pássaros cantando
+abre os olhos
+Ele ta vendo a gaiola 
+mas ele ta do lado de fora
+algum avanço aconteceu
+
+TÁ , PENSA
+JESUS , CALMA
+VAMOS COM CALMA
+AHHHHHHHHHHHHHH
+
+O principal da uma olhada em volta da sala , nada demais , ele abre a porta com calma e da um check
+realente ele não está no mesmo corredor, ele vê oque parece ser uma casa , um pequeno escritório
+Todo feito em cimento , com pouquíssimas decorações
+ele consegue ver um lounge com milhares de coisas jogadas pelas mesas
+mas o tempo está passando , e ele precisa voltar pra gaiola
+ele volta correndo pra sala e tenta novamente
+senta no chão , respira 
+foca no som 
+na cabeça dele ele se ve mergulhando na cachoeira
+e quando ele abre os olhos
+corredor infinito novamente
+"tá , isso ta muito esquisito"
+ele senta no chão no mesmo lugar e foca em sair do som
+abre os olhos
+do lado da gaiola
+senta no chão
+respira
+foca no som
+abre os olhos
+corredor infinito
+só que dessa vez ele levanta e anda
+alguns passos para o lado
+senta no chão
+fecha os olhos 
+foca em sair do som
+abre os olhos
+do lado de fora da gaiola
+mas não no mesmo lugar
+Barulhos de passos
+senta no chão com pressa
+se concentra no som com pressa
+abre os olhos com pressa
+corredor infinito
+ele visualiza aonde estaria a gaiola no mundo 
+anda até ali
+senta no chão
+foca em sair do som
+abre os olhos
+dentro da gaiola
+a porta abre com força
+-EU FALEI , ele ta aqui porra
+Gustaff completamente exaurido abre a porta com o mestre
+-Mas você ouviu ela
+- Mas ela não ve nada aqui dentro , foi só um sentimento
+- Como que ela não vê pelo amor de deus... tá , vamos parar de falar disso na frente do espião
+A porta fecha com Gustaff olhando para o principal e dando um sinal de positivo para ele
+NOSSA SENHORA QUE PORRA FOI ESSA JESUS CRISTO 
+
+
+
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+MEU DEUS
+CARALHO
+EU IA MORRER
+E ALGUEM TAVA VENDO
+QUEM É "ELA"?
+A ISABELA TA AQUI
+ELA VAI ME CONGELAR DENOVO
+calma...
+
+calma...
+
+ta tudo certo , por enquanto
+você não fez nada de errado
+
+respira
+calma
+MAS NEM TANTO
+você n pode sair daqui denovo
+não fecha os olhos
+só respira
+O principal está com o batimento acelerado
+sentado no canto bem iluminado da gaiola
+e ele raciocina um pouco sobre oque aconteceu
+parece que aonde ele vai naquele corredor infinito 
+se traduz pra onde ele estava aqui
+porra seria muito bom se o gustaff tivesse aqui p dar uma ajuda
+mas será que é bom contar pra ele oque aconteceu?
+essa porra desse mestre ta tão chato que ta entrando na sua mente e agora você também ta peidando
+que situação merda
+era a hora perfeita pra eu tentar entender oque meus poderes fazem
+mas se eu sair daqui de novo fudeu
+se alguém me ver naquele corredor infinito?
+e assim , onde que aquilo fica?
+o lugar parece completamente diferente daqui
+tipo , tanto a vibe quanto a arquitetura e etc...
+Eu até queria voltar lá , mas se virem q eu sai da gaiola aparentemente fudeu
+A porta abre e o principal olha e não vê ninguém
+Olhando um pouco mais pra baixo ele vê uma criança
+Ela não está nem um pouco feliz
+Eles trocam olhares , a criança pega uma cadeira e senta na frente da gaiola
+-boa noite.... - o principal fala
+sem respostas... a criança da uma leve olhada para ele mas sem respostas 
+"é , não parece que ele é tão amigável quanto o gustaff. Sendo que ele é uma criança, e o gustaff parece um armario"
+-Olha eu não quero ser chato mas o ultimo guarda pelo menos falava comigo
+Sem repostas......
+parece que essa criança realmente me odeia
+o principal estende a mão para a parte da cela coberta por sombras
+ele pensa em um pequeno show de fogos de artificio
+quem começa a aparecer em sua mão
+Ele vai olhar de volta para a criança
+antes de conseguir raciocinar qualquer pensamento o principal está sendo levantado pela gola nas barras da gaiola
+a criança está levantando um jovem adulto como se não fosse nada
+-Você ainda acha que eu sou uma criança?
+Ele olha profundamente nos olhos do principal
+parece que ele está mandando o olhar da penitencia do motoqueiro fantasma 
+o principal sente a alma dele caindo
+o muleque teleporta é forte e ainda é a porra de uma criança jesus cristo
+-Ok OK , parei não em mata pelo amor de deus desculpa eu só sou idiota foi mal
+o principal é solto e cai no chão
+ele volta o mais rápido possível para seu canto e fica calado
+"Parece que a minha melhor opção é dormir"
+a gaiola é grande o suficiente para ele deitar e dormir
+mas dormir em cima de barras de ferro não é muito confortável
+ele se deita , e olha para a criança
+o desconforto dele é visível
+"não precisa nem de um colchão , só uma placa de madeira já ta ótimo"
+ele tenta falar o mais rápido e o mais baixo possível
+a criança não tem reposta , só segue sentada olhando com os braços cruzados para ele
+"você não precisa dormir deitado, se você dormir sentado as barras não serão tão desconfortáveis"
+O principal olha para a criança com uma leve duvida
+a criança por um microssegundo da uma olhada para o principal , mas logo volta a sua cara de puto normal
+O principal se levanta , sentado de forma que as barras da parede estejam paralelas a sua coluna
+realmente , colocando seus pés na barra a sua frente , ele consegue se travar em uma posição ok para dormir
+Não demora muito para ele ir dormir , o dia foi bem longo...
+fechando os olhos ele escuta o rio , e na sua imagem mental ele se imagina sentando na beira da cachoeira
+o rio não para com seu volume estrondoso
+mas a cena é pacifica
+calma
+e aos poucos sua imagem mental vai sumindo
+
+
+
+capitulo 2: começos
+
+PÁ, a porta do quarto abre do nada , e vem o mestre
+a criança abre os olhos instantaneamente e levanta para saudar o mestre
+-Não achei q iria cair no seu plano , mas vocês realmente são bons. Lao , prende ele
+Gustaff entra no quarto com uma placa de metal
+-Bom dia espião, Bom dia Lao
+A placa tem uma grossura considerável, é um retângulo de uns 2 metros por 50 centímetros de purro ferro , e ele levava como uma placa de gesso
+ele para bem na frente da gaiola e bota a placa no chão
+o barulho da placa no chão ecoa e gustaff fala
+-Foi mal!- olhando para o teto 
+-Lao , garanta que ele não vai fazer nada novo e isabela , se ele mexer 1 centímetro na direção errada , congela o quarto, meus garotos aguentam
+Lao olha para o mestre e faz um sinal de Sim com a cabeça , enquanto gustaff olha para isabela com uma cara de cu
+Lao vem para frente da gaiola 
+-Eu só prendo , quem lida com ele é você! Foi mal espião
+Lao começa a abrir a porta da gaiola e antes que eu possa me preparar para sair ele já está lá junto comigo
+Segurando meu braço ao que parece 1 centímetro de quebrar
+Eu ainda estou na posição que eu dormi , e ele como criança consegue entrar tranquilamente na gaiola e ficar entre eu e as barras nas minhas costas
+-Vamo pivete , levanta
+-EU QUERIA MAS ESSA GAIOLA NÃO É DO MEU TAMANHO PORRA
+Lao não pensa duas vezes e empurra o principal para frente 
+deixando ele de barriga para baixo com o queixo no chão e um dos braços para tras 
+Lao levanta-o e o aperta contra a placa de metal
+Ao mesmo tempo que o principal sente a placa gelada em suas costas
+ele sente o material se moldando a seus pulsos
+olhando para baixo , a placa foi entortada de forma que envolvesse seus pulsos e seus tornozelos
+tudo na mão , feito pelo gustaff
+-Ok , agora só não encosta muito no ferro que deve ter algumas pontas afiadas, deixa eu terminar
+gustaff estava dobrando o metal só com as mãos , pela parte de tras da placa 
+ele anda para frente e começa a esfregar as palmas das mãos no metal retorcido
+O barulho é de uma lixa 
+-Prontinho , tem alguma parte que está muito ruim? muito apertada?
+-QUE PORRA É ESSA GUSTAFF M, PELO AMOR DE DEUS - fala o mestre
+-Ah mestre pelo amor de deus , quer matar mais um antes da hora?
+-OK , MAS VAI RAPIDO
+Gustaff olha para mim e da uma piscadela muito obvia
+-Agora para os toques finais
+Gustaff pega uma barra de ferro e enfia como se fosse um cinto , fechando o tronco do principal
+ele modela o ferro como se fosse massinha
+ele prende a barra só na pressão , como se fosse uma agulha passando por uma folha de papel
+e faz a mesma coisa com meu peito e meus joelhos
+-Por favor só não me diz que vocês vão querer me calar também , essa pode ser de pano
+Gustaff ri loucamente, isabela ri de gustaff , o mestre e lao ficam sérios
+-Se continuar brincando tanto jaja não terá mais boca para calar- falou Lao
+-Vamos, ele já ta quase chegando em vaxias 
+Gustaff levanta a placa e joga em seu ombro
+-Calma , precisa vendar ele. Isabela- Mestre
+-MEU DEUS NÃO , NÃO ME CEGA PELO AMOR DE DEUS , É MELHOR ME MATAR
+Gustaff me bota como se fosse um escudo na frente dele
+eu e isabela , um olhando para o outro
+-Meu deus por favor vai leve comigo eu juro que não fiz nada
+Ele fecha os olhos esperando o pior 
+sente um vento gelado e bam
+a agua do seu corpo virou gelo
+de olhos fechados , uma leve camada de gelo foi criada que impede seus olhos de abrirem 
+-Rápido , vamos- Mestre
+O principal ainda está tentando raciocinar oque aconteceu e é levado ao ombro de gustaff denovo
+ele sente a movimentação ,a correria , o vento batendo em seus olhos congelados
+e aos poucos ele consegue abrir os olhos 
+quando ele consegue , eles já estão no deserto
+Olhando para o lado ele vê lao , isabela , gustaff e o mestre 
+Como ele está preso em uma placa no ombro de gustaff ele só consegue ver de onde ele vieram , ele vê a parte abandonada da cidade , eles já estão relativamente longe
+Mas também , parece que o gustaff consegue correr como uma maquina
+Lao é rápido de qualquer forma (um negocio meio Jason , você só ve ele andando mas sempre está na frente de todo mundo)
+Isabela está dando uma leve patinada , parece que mesmo no deserto ela consegue criar uma camada de gelo para pelo menos conseguir dar alguns empurrões 
+O mestre está no outro ombro de gustaff 
+O principal consegue ouvir que algo está errado
+ele ouve os sons naturais dali , o vento devido a corrida de gustaff
+os barulhos de passos 
+mas um barulho ele reconhece que não é dali
+"BOOM"
+o barulho que acordou ele na manhã anterior
+O barulho que fez ele estar preso numa placa de metal sendo arrastado pelo deserto
+O mestre anda pelos ombros de gustaff e sobe na placa de metal
+"Olha, seu plano não vai funcionar do jeito que você ta planejando... gustaff e lao vão segurar ele no lugar até você desfazer oque quer que seja que você tenha feito"
+"Como assim cara eu to o dia todo sentando numa gaiola dentro da sua casa"
+"Eu conheço esses poderes de sombra o babaca , aquilo na cara dele é oq? LEVANTA ELE GUSTAFF"
+Enquanto ele mantem o passo no deserto , gustaff me joga para cima 
+a placa de metal cai perpendicular ao ombro dele mas ele domina como uma bola de futebol
+o mestre nessa transição só deu um pulo para cima e foi para o outro ombro
+"Olha"
+agora o principal consegue ver , o gigante realmente tem oque parece ser uma nuvem de sombra em volta de seus olhos
+"Eita... calma , deixa eu ver um negocio"
+o principal fecha os olhos e se ve em um deserto , o único barulho é o do vento , que parece ser uma lembrança de som ao longe
+mas ele ouve oque parece ser um helicóptero descendo em cima dele , e cada vez chegando mais perto 
+ele abre os olhos
+"Tá , eu consigo sentir esse negocio, só que eu não sei oque fazer"
+"ISABELA, VEM CÁ"
+"Olha bem , eu não sei qual seu plano , isso você realmente consegue enganar, mas você VAI fazer. Gu, lao vão cuidar do bixo"
+gustaff bota a placa de metal na areia , fincando-a e me colocando de frente para o gigante
+gustaff tira a camisa e a deixa pendurada em um dos cantos da placa, instantaneamente ele sai correndo junto com lao
+Lao só corre ao lado de gustaff e da um pulo
+gustaff prepara seus braços como um arremessador de peso olímpico
+Lao cai perfeitamente nas mãos de gustaff e é arremessado em direção a cabeça do gigante 
+Só se ouve um "HUH-YAH" muito alto e lao da um chute bem na mandíbula do gigante
+É impressionante a forma como ele luta
+"tá , agora é hora da verdade"
+"eu ainda não entendi oque eu preciso fazer"
+"EU TAMBEM NÃO IDIOTA, VOCÊ QUE FEZ ESSA MERDA , DA UM JEITO DE DESFAZER"
+"Eu não fiz nada cara , e meus poderes nem tem nada a ver com controle de mente"
+"Isabela , vem"
+Isabela ta parada ali do lado como uma adolescente em uma viagem de família
+"Já vou"
+"Olha cara , me torturar não vai adiantar muito, eu nem sei oque fazer"
+"eu diria que você tem até ela chegar aqui para descobrir"
+o principal, nervoso , fecha os olhos e se concentra no som de helicóptero
+que agora parece querer pousar em sua cabeça
+na sua imagem mental ele olha para cima e sente algo novo
+Aquele som fala 
+"Hashashasahashahshhashaaash" "ridridriridiriridirirididri"
+frases inemterruptas que não param , um sentimento de esquizofrenia 
+"TÁ , REALMENTE TME ALGO ESQUISITO AQUI, AS SOMBRAS FALAM"
+"Isabela...."
+"JÁ VOU"
+O principal fecha os olhos de novo
+Na sua imagem mental ele se ve olhando para a sombra de novo
+ela não tem uma forma especifica , ela parece ocupar toda visão dele
+Ele se concentra nas vozes , e tenta entrar nas mesmas 
+"AAAAHHHHHHHHHHHHHHHHH!!!!!!"
+Ele sente a mesma dor de ontem , no mesmo lugar
+a ponta do seu dedo queima com mil sois
+"FAZ ALGUMA COISA SEU MALUCO , ELES NÃO AGUENTAM MAIS DUAS HORAS ASSIM , ESSE GIGANTE VAI MATAR NOS TODOS"
+"EU TO TENTANDO , MAS VOCÊ ME TORTURA E TA DIFIC.. AHHHHHHHHHHHH"
+O mestre bota a mão no ombro de isabela e ela abaixa seu dedo 
+"Você tem dois minutos pra eu não chamar eles e te deixar aqui pra ser pisado por ele"
+"tá , tá , eu tento"
+ele fecha os olhos e volta a se concentrar nas vozes 
+ele olha profundamente para sombra , e tenta se colocar lá dentro
+ele sobe em direção a ela 
+as vozes começam a se assemelhar a algo
+"Ele vai te torturar até você morrer" "não adianta muito , vai ser isso pela eternidade" " a chance de você NÃO estar no inferno é mínima"
+quando ele olha para baixo ele não vê mais o deserto
+ele só ve a sombra
+ele só ouve as vozes
+e ele não consegue abrir os olhos 
+As vozes não param
+e parece chegar cada vez mais perto
+Ele tenta concentrar em algo diferente dali
+mas é impossível
+ele sente a dor no seu dedo
+mas é tão rápido que ele não consegue mudar seu foco
+ele tenta se concentrar no resto de dor no dedo e nada 
+só vozes
+"foi você que matou a mulher na floresta e você sabe"
+"você está sendo usado num jogo que você nem faz parte"
+"você será torturado até morrer"
+o principal não sabe muito oque fazer
+ele só está vendo tudo escuro em sua volta com vozes gritando em seus ouvidos
+parece que se passaram 4/5 minutos , mas para ele parece uma eternidade
+ele já tentou nadar , concentrar , pensar em algo diferente
+Mas ele não tentou voltar para o corredor infinito 
+Mas ele precisa entrar no rio de novo
+e ele realmente não consegue ouvir nada sem ser as vozes
+ele pensa no rio
+é difícil
+parece o rio , mas lotado de demônios
+mas ele tenta se concentrar na agua
+e a agua começa a soar mais alto
+e ele não larga o som
+se concentrando mais e mais
+até abrir os olhos e ver o corredor infinito
+ele senta no chão
+respira
+chora um pouco
+e agradece por ter saído daquilo
+não tem nenhum espelho por ali
+mas ele consegue se imaginar e ver a tristeza da cena
+um homem sentado em posição fetal chorando no chão
+depois de uns 10 minutos , ele já se recuperou 
+ele levanta , procura para ver se existe um filtro dagua , ou algo parecido
+e impressionantemente tem , duas salas ao lado do qual ele está , ele entra , bota a boca na torneira e liga 
+a agua está na temperatura ambiente e não parece nada diferente
+já ta na hora , bora
+ele senta no chão
+reza para que não seja enviado de volta para aquele inferno
+e fecha os olhos  
+se concentra na calma
+ele se vê saindo do rio , e parece não ter mais as vozes
+ele abre os olhos
+ele se vê na sala principal que ele deu uma olhada quando saiu da gaiola
+a placa de metal está bem no meio da sala , e gustaff lao isabela e umas duas outras pessoas estão ali , olhando para a placa
+gustaff olha para mim , todos parecem meio assustados
+"Isso foi um sonho? Porque eu to fora da gaiola?"
+gustaff com uma passada da perna vem para cima do principal e me da um abraço
+"Puta merda eu achei que você ia morrer"
+"Se você botar u pouco mais de força nesse abraço com certeza"
+"Foi mal... Eae mestre , nada a falar?"
+"Eu pediria desculpas se tivesse feito algo errado , só peço entendimento para meu lado, você realmente é maluco"
+"Oque que ouve?"
+"Você conseguiu tirar o negocio do gigante , mas aparentemente foi para você"
+"Eita porra , e oque vocês fizeram com o gigante?"
+"Você acha que ele queria ta aqui? ele ficou completamente puto com o cara que fez isso com ele. Ele voltou correndo para a barreira e sumiu daqui"
+"graças a deus eu estava preso , nem sei oque eu poderia fazer"
+"Realmente não sabe. Você entrou num estado completamente louco, a gente achou que ia morrer. Você criou um armazém inteiro de armas e tentava matar a gente. mas realmente , suas sombras não fazem nada"
+"Como assim?"
+"Já viu o taz? você tava parecido , soltando bombas , tiros , espadas , tudo. a gente chegava perto e uma katana vinha em nosso pescoço e você começava a ameaçar a gente, realmente fiquei com medo"- Gustaff
+"você conseguiu intimidar todos ao mesmo tempo"- Mestre
+"Cof-Cof"- Lao
+"Quase todos... mas a questão é a seguinte, você precisa aprender a usar seus poderes"- Mestre
+"Aleluia!"
+"Como que você fez para entrar na sombra?"
+"Eu me concentrei no som la no deserto"
+"não , aqui , como você tirou a nuvem da sua cabeça, porque você entrou na sombra?"
+"Entrou na sombra?"
+"Jesus se você soubesse oque vc faz a gente tava morto"
+"Eu tava preso no que parecia um casulo de escuridão , com varias vozes na minha cabeça, eu me concentrei para voltar para o corredor...."
+"Corredor? Você não falou de corredor nenhum ontem"
+"Já sabe que eu sou do bem né? quer dizer , que pelo menos eu não sou do mal"
+"Sim"
+"Eu descobri isso ontem , aparentemente eu consigo alternar entre esse mundo aqui e um mundo que parece um escritório infinito"
+"Quando você faz isso , você entra numa sombra pra gente"
+O silencio toma conta....
+"Você não sabia diss.."
+"Não! agora faz sentido... achava que eu só tava em outra parte desse lugar aqui"
+"A gente vai precisar testar essas coisas"
+O principal sorri com a prospecção de entender seus poderes
+"se eu fosse você , aproveitaria essa felicidade, vai acabar rápido. Você precisa de tempo ou podemos começar o tour?"
+"Cara , você me torturou um dia inteiro... deixa eu respirar"
+"Você acha que isso é tortura? vc precisa ver oque fazem por aqui....."
+O principal se levanta , da uma esticada e olha o lugar
+"Primeiramente , onde estamos?"
+"Não é tão simples, precisa do tour para entender"
+"Como assim precisa de um tour para saber onde estamos?"
+"é impressionante , mas ele ta certo..." - Gustaff 
+"Antes disso , tem mais alguém pra eu conhecer aqui?"
+Uma garota que parece uma versão adulta da princesa principal de detona ralph da um passo pra frente
+"Sou jas , também to nesse grupo"
+"Desculpa a pergunta , mas qual seu poder?"
+Ela saca um violino e começa a tocar , o som é exatamente o som que o fez desmaiar lá no galpão
+"Ahhhhh , foi você..."
+"É , prazer"
+"oi"- O principal ouve em sua cabeça 
+ao olhar direito para o grupo ele ve um cara que parece estar dormindo em pé com os braços cruzados
+o pé dele não encosta no chão , ele tem uns cabelos longos , extremamente magro e quase completamente pelado
+"Meu nome é pessoa, sou o guia espiritual daqui" 
+O homem flutuante abre os olhos rapidamente para o principal, e nessa troca de olhar ele vê os olhos de pessoa brilhando um roxo esbranquiçado e tem flashes de grandiosidade em microssegundos
+"AHHHHHH , que porra é essa!"
+"Calma , é o pessoa , é mais tranquilo do que parece"-Gustaff
+"O nome dele é pessoa?"
+"Alguma hora ele te explica"
+"E os poderes dele são?"
+"Isso ai , a gente realmente não sabe a explicação técnica, ele só toma as paradinhas dele e entra nesse estado ai"
+Parece que toda hora que o principal olha pro pessoa um "hmmmmmmmmm" começa a tocar na sua cabeça , o cara tem uma aura
+"Pronto , esses são todos que estão aqui, mais alguma coisa?" - Mestre
+"Po , bastantes coisas , mas realmente não sei oque perguntar ainda , mas sinto que estou muito confuso ainda"
+O mestre vai pra perto do principal e o ajuda a levantar 
+"Me siga , vamos pelo básico... Ninguem novo nasce aqui , não é possível ter filhos, todo mundo que ta aqui só morreu e é isso. se você morrer aqui , você vai para um cubo aleatório, cada morte vai para um lugar aleatório e é isso. agora aqui , especificamente. Aqui em Botanjeras , tudo começou normal , era um cubo desértico , em que nômades forasteiros faziam seu mês, algumas famílias estabeleciam suas casas aqui, algumas pessoas ruins também , o normal... até que a porra dos lumieres chegaram , naquela época eram poucos , e eram até aceitáveis , galileu tinha acabado de ser queimado pela igreja... mas com o passar do tempo , e com a chegada do Edison , tudo foi pra merda... a ideia original de liberdade não dava o controle necessário para os lumieres , é muito fácil querer melhorar o mundo para os outros controlando oque os outros sentem , fazem , pensam... e agora estamos aqui , tendo que lidar com a putaria q é só querer ficar tranquilo E ainda lutar contra as garras desses lumieres"
+"Mas tipo , eles dão casa , realmente dão algum tipo de segurança para as pessoas"
+"É , o plano deles realmente da certo, é tudo friamente calculado , tipo tudo... o numero de pessoas vendo cada coisa , quantas pessoas se importam com a pessoa x ou y , tipo TUDO"
+"Então eles realmente manipulam a percepção das pessoas no mundo? e controlam tudo?"
+"Sim! e essa é a merda que a gente vive... meu objetivo sempre foi trazer um grupo de pessoas que com seus poderes consigam proteger a população, é uma merda você estar criando uma vida e do nada aparece uma maluco que produz lava no suor e começa a tacar fogo em tudo na sua cidade. O objetivo principal da gente aqui é esse"
+"Porque você não tentam achar uma cidade que aceite vocês?"
+"O unico jeito de sair daqui  direito , seria com portais. Se a gente só der as mãos e for pro limite , quandoa gente passar , cada um vai para um lugar , e antes que dê para gente se encontrar , eles iam pegar a gente e cortar os membros fora , tirar os sentidos , e deixar a gente um cotoco de pessoa para não teleportarmos mais... Sim , eles fazem isso"
+"Se eles só matassem vocês não adiantaria muito , que vocês poderiam acabar se encontrando de novo"
+"É , e ia ser enxugar gelo, então o melhor para eles é deixar a gente vivo, mas sem ver , ouvir sentir , cheirar , falar , se mover , etc... Tá , isso foi nossa situação aqui"
+"Caralho , que merda hein"
+"Eu falei pra guardar a felicidade."
+Enquanto eles se falavam o Mestre foi levando ele pelo corredor que ontem ele olhava com tanto medo
+Parece um pequeno escritorio abandonado , com uma sala de espera utilizada como sala principal , e um corredor que leva para um grande salão que tem divisorias. uma dessas divisorias está a sala que ele ficou preso , e nas outras , parece ter uns quartos lotados de cama , parece algo bem "quartel general"
+"Esse lugar não foi feito para ficar , aqui é só um qg movel."
+"Onde ficaria o real qg?"
+"Não temos. Não podemos ter, se a gente voltasse para o mesmo lugar fudeu , nós seriamos pegos em 1 semana"
+"E como vocês movem isso aqui? como que vocês ficam aqui?"
+"Então , tenho que abrir o jogo com você. Se eu te contar como isso aqui funciona , você está propenso a ser torturado por essa informação... talvez você seja torturado mesmo não sabendo... estou em duvida sobre te mostrar, a não ser que você deixe o pessoa se comunicar com a sua mente. Ele iria botar uma flag q no momento que você acionasse a sinapse de falar nosso segredo , a gente seria avisado"
+"Entrar na minha mente? isso me parece meio...."
+"Sim , eu sei. não quero te forçar a nada , mas agora você ja ta a tanto tempo aqui, se você quiser sair , sua vida vai ser meio dificil... você pode sair daqui e ir correndo para outro cubo , mas eles vão te cotocar , sem duvida , alguma hora"
+"Legal , não tenho escolha."
+"Exatamente , agora você entende porque eu não quis acreditar que você veio para cá de bom grado? ainda mais com toda manipulação dos lumieres"
+"Tá , ele tem q fazer oque comigo?"
+O principal olha para o pessoa e começa o "HMMMMMMMMMMMMMM" em sua cabeça , os braços cruzados dele se abrem e ele vai para perto do principal
+~me de suas mão~ 
+o Principal estende a mão e encosta palma com palma
+eles se olham olho no olho 
+e bam , um efeito de vertigo teleporta o principal para um parque
+"Bem vindo cara! que bom que você entrou pro nosso time , prazer eu sou pessoa e essa é minha mente!"
+"Eita que doidera cara , eu entrei na sua mente?"
+"Eu conectei nossas mentes a gente pode transitar entre a minha e a sua livremente , no caso eu consigo né... Começamos aqui já que a mente de ninguém é organizada e talvez você tome um susto  com sua própria mente, quero te deixar confortável antes de sair entrando nos lugares com você"
+O principal olha em volta e parece que ele está naquele curta da pixar do velho jogando xadrez consigo mesmo , uma pracinha calma e vazia
+"Tipo , essa aqui é uma representação da sua cabeça? isso é oque ocê quer me mostrar , não to entendendo"
+"Eu passo meu dia inteiro aqui , minha mente é organizada. vamos entrar na sua , rapidinho só para você ver como é uma mente "normal" "
+Com o mesmo efeito de vertigo ele se vê num redemoinho escuro , parece um furacão de fumaça
+"ISSO AQUI É SUA MENTE , VOCÊ DEFINITIVAMENTE TME TDAH , E BASTANTE ANSIEDADE.... MAS PODE FICAR TRANQUILO Q ISSO É UM EFEITO DA NOSSA SOCIEDADE ... É FODA"
+Pessoa pega na mão do principal e eles voltam a pracinha
+"Imagina se eu tivesse te puxado para lá direto... se a gente vier para esse canto aqui"
+eles começam a andar em direção ao vazio (cena do mundo se desfazendo em coraline)
+"Você pode ver que não tem como ser organizado de verdade , sua mente é um fluxo constante de literalmente tudo que você possa pensar"
+Ao olhar para traz o principal não vê mais a praça , ele está no meio de um mundo plano completamente branco 
+Pessoa se abaixa e faz um movimento como se estivesse pegando agua de um rio
+"o fluxo de pensamentos é constante e veloz"
+ele puxa para si o "chão" e com ele vem oque parece ser um tubo de ideias , da para ouvir um milhão de falas uma em cima da outra 
+Cada ideia e sinapse tem uma cor , tamanho , forma, velocidade diferente
+"pegue uma  ideia"
+O principal se abaixa e pega uma em formato de estrela vermelha que vai devagar pelo rio
+"ESSE RETARDADO NÃO FAZ MENOR IDEIA NEM DE COMO FUNCIONA A PROPRIA MEN..."- a ideia grita
+"Eita , peço desculpas. Ideias ruins não são evitáveis , mas são ignoráveis"
+O principal realmente não esperava isso , tudo aqui parece tão controlado , tão calmo, não parece algo que ele pensaria
+"isso também acontece na sua mente , só que infelizmente você não consegue botar forma cores ,velocidade nelas , é só um stream continuo de ideias... ai vem os problemas mentais , que ou dividem o rio em dois , ou que fazem o rio ir mais rápido , mais devagar , um filtro de certas ideias , varias coisas. A velocidade dos seus pensamentos é o tdah , e a ansiedade é toda a vibe do lugar. quandoa gente voltar lá , você pode ver que sempre tem umas ideias novas surgindo de ideias que você tem. eu não gosto de falar isso, mas me da uma pena imaginar que todos vocês passam por isso 24/7 toda hora"
+"você falando assim parece horrível mesmo"
+"tá , mas não viemos aqui para isso , preciso botar uma flag lá , vamos"
+Pessoa anda em outra direção até chegar a uma prateleira lotada de ideias , não tem muita organização
+"Pode parecer uma bagunça aqui , mas nossa mente é muito foda. a gente organiza as coisas para encontra-las , aqui a mente consegue achar de uma forma que realmente n da pra te explicar com palavras"
+uma ideia especifica sai de um dos montes de ideias espalhadas pela prateleira, vai até a mão de pessoa 
+ele bota um dispositivo em cima que depois de alguns segundos pica verde
+"Pronto , vamos... vou deixar esse dispositivo lá , e depois a gente volta pro mundo normal , se algum dia vc quiser conversar cmg aqui é só falar , eu escuto vocês lá fora"
+Pessoa pega na mão do principal e
+vertigo
+furacão de fumaça
+o Principal tenta controlar algo ali , da para ver que o lugar tenta brilhar um pouco mais , mas realmente é muita coisa se passadno pela cabeça
+Ele vê pessoa soltando o dispositivo 
+"Um dia isso aqui vai ta melhor"
+e pega na mão dele com um sorriso
+e com um ultimo vertigo e uma respirada longa
+o principal abre os olhos e está de volta na sala com os outros
+"Nossa , isso foi muito foda"
+"Como que você gostou disso?"- Isabela
+"Ah , é diferente né"
+"não liga muito para ele , ele escolheu estar aqui"- Mestre
+"Deixa eu entender , nenhum vocês teve escolha de não estar aqui?"
+"Basicamente , cada um tem um motivo para estar aqui , é só q nenhum foi : estava curioso com os bandidos e quis ver oque estava acontecendo. Jas tem uma questão com o pai dela que acabou obrigando ela a ficar aqui, gustaff foi visto ajudando a gente numa cidade e dai pra frente foi perseguido, Isabela veio com o namorado e acabou que ele saiu e ela ficou, e pessoa só não é entendido por ninguém... Tipo , ok , alguns aqui tiveram a opção de não vir , mas ninguém QUIS vir pra cá , foi sempre algo que obrigou a pessoa a vir , ou a cabeça da pessoa tava no lugar  ela viu o que a gente fazia"
+"Porra , mas meio que eu não tive escolha também , vim ver oque acontecia aqui, fui preso e agora não tem como eu sair"
+SILENCIO ENSURDECEDOR
+"No próximo mundo, talvez não vá ver oque as pessoas mais procuradas daquele mundo estão fazendo , só uma dica msm"-Jas
+"Tá , mas agora é a hora do segredo , vamos"- Mestre
+Ele vai andando em direção ao salão principal , o principal se levanta e vai atras dele
+chegando na sala ele fica na frente de uma parede e olha pro principal
+"Venha" e ele entra na parede
+o principal vai atras e a parede é completamente fake , não existe resistência ao passar dela
+saindo , o principal se vê no meio da rua daquela parte abandonada da cidade 
+O mestre está logo na frente dele, ele olha para traz 
+"Oi Marcia , aconteceu algo desde que a gente entrou?"
+O principal vira e vê uma mulher mais velha , com seus 50 e poucos anos, ela parece alguém q ele já viu
+Marcia responde
+"Nada não meu filho , ta tudo tranquilo , mas não de um jeito esquisito hehehe"
+"Eu tava mostrando pro muleque a nossa casa...."
+"Do jeito q ele foi tratado ontem e hoje achei que você ia matar ele , ainda mais ele maluco depois do deserto"
+"Oi , meu nome é Principal , prazer.... mas ainda não to entendendo"
+"Meu nome é marcia , sou parte do grupo também , mas nem todo mundo só usa seus poderes para bater e matar, os meus são mais uma questão gerencial da coisa"
+"Então..."
+"Eu sou o qg , e é por isso que você não pode saber disso , porque é a única maneira da gente realmente ficar seguro, os lumieres me veem como uma mendiga maluca daqui , eles acham que meu poder tem a ver como carpetes..."
+O principal olha com uma cara de duvida
+"Toda vez que alguém passa aqui eu saio correndo , e pras pessoas que me veem mais frequentemente , eu só fico tirando carpete de dentro da sala e jogando nos lugares"
+"Jesus , que loucura... e o velhinho ai não fica mal de te colocar nessa situação? você não pode ter uma vida normal?"
+"Ei , você não fal...."-Mestre
+"que isso mestre , relaxa. Isso aqui é um trabalho , tenho minha vida , meu marido... só tenho que comunicar com o mestre e a gente sempre da um jeito"
+"Vamos voltar , não da pra ficar muito tempo de bobeira assim na rua"
+"Foi um prazer marcia! Se eu tiver fazendo merda la dentro você me avisa!"
+"Pode deixar , você se teleportando n foi nenhum problema hahaha! boa sorte nessa jornada"
+E com isso o mestre anda em direção a marcia e simplesmente some , como se existisse uma barreira invisível na frente da marcia
+O principal vai logo atras 
+Logo quando eles entram o mestre começa
+"Como você pode ver , nos somos compostos de varias partes , não só lutar e bater. Temos pessoas influentes , temos pessoas que nos ajudam no dia a dia, tem pessoas que não fazem nada por nos mas se der merda existe um botão que todos são chamados. Esse tipo de coisa.... Como você viu , a gente ta tendo esse problema com esses gigantes , que parecem não parar de aparecer , e tem algo a ver com essas sombras"
+"Então ,eu não entendo direito como q meus poderes funcionam... eu tenho sons na minha cabeça , que parecem ter alguma relação com as sombras, eu fecho os olhos e concentro em algum dos sons e quando eu abro os olhos estou dentro do corredor infinito"
+"Tá , precisamos fazer alguns testes ... primeiro eu quero que você tente me levar com você... mas tenho medo de não conseguir sair , ou pelo menos você não conseguir me tirar de lá... Entra lá , que a gente vai testar uns negócios"
+O principal fecha os olhos e se concentra no rio, abrindo os olhos ele está no corredor
+Ele começa a dar uma explorada , tentar entender oque está acontecendo 
+Ele olha para os dois lados , como se fosse atravessar a rua 
+E começa a andar , todas as salas são IDENTICAS
+Ele continua andando e nada parece mudar
+~ok , testar coisas , vamos lá~
+primeira coisa ele pensa em um pequeno parque de brinquedos , para crianças 
+e ao andar mais um pouco , ele encontra oque ele imaginou , exatamente como ele imaginou
+ele entra no cubículo lotado de brinquedos de parquinho e sobe no brinquedão
+ele se joga do escorrega e vai imaginando o escorrega continuando , saindo pela porta e levando ele pelo corredor
+~tá , consigo criar coisas aqui , e eu consigo interagir com elas. Acho que isso é alguma coisa , vou voltar para eles~
+O principal levado pelo escorrega que cresce , vai para o corredor que tanto conhece
+senta e se ve saindo do barulho do rio
+ele abre os olhos e está num canto em cima da sala de onde ele saiu
+"Cacete muleque , eu falei que queria testar algumas coisas, não sai de lá correndo"
+"Correndo? fiquei uns 10 minutos lá dentro e nada...."
+O silencio na sala fica ensurdecedor
+"Esse mundo realmente me impressiona todo dia... você ficou no MAXIMO 10 segundos fora, ninguém contou , mas é um chute"
+O principal deixa o seu queixo cair
+"Então existe uma questão temporal aqui.... eu consigo dar um pause na vida? que loucura....Mas do que adianta?"
+"Porra adianta demais , quando você estiver prestes a morrer , você pode passar 10 anos pensando no que fazer quando você sair"
+"tá , mas me parece meio especifico"
+"Você vai ver como esse mundo é louco , as coisas acontecem com mais frequência do que você imagina... Eu queria tentar me comunicar com você la dentro ,e testar algumas coisas"
+"Olha , eu consegui criar algumas coisas lá dentro , tipo... eu fico em um corredor de cubículos enorme, infinito até onde eu sei. Mas consegui criar um quarto , com uns brinquedos e fiquei brincando lá..."
+"Olha , você não é a primeira pessoa com poderes de sombra... eu acho que aonde você está é o sombraverso , shadow realm ou qualquer nome que já deram p esse lugar. Normalmente as pessoas mais puxam coisas de lá , ou passam por lá. Nunca ouvi de alguém que entra , fica e cria coisas lá... cacete , e você consegue criar coisas aqui nesse mundo... tenta mais uma vez criar algo"
+O principal sente que tem levemente um pouco mais de controle sobre seus poderes , ele acha uma sombra de baixo de uma mesa de centro
+bota a mão lá e imagina um cubo 
+O cubo se forma não mão dele
+O mestre olha o cubo , passa a mão por dentro, a mão passa direto por dentro , como se o cubo não existisse
+"Tenta você pegar o cubo"
+o principal estende a mão e vai chegando perto do cubo , quando a mão dele encosta, o cubo mostra uma reação mas logo depois volta para seu lugar normal 
+"Hmmmm , tenta se concentrar"
+Ele tenta de novo , e o cubo se mexe
+"Acho que me concetrei errado , o cubo se mexeu pela minha cabeça msm , não com a minha mão"
+"É um avanço, antes nem manter o cubo você conseguia...."
+"Como que você sabe isso?"
+"Não importa...Acho que a gente já pode testar você em algum tipo de combate."
+"mas como , eu não sei lutar..."
+"Eu tenho algumas coisas que eu quero testar"
+O mestre sai andando em direção de um dos quartos 
+Dentro do quarto tem uma velinha , bem velha (Parece a vó de COCO o filme)
+A velha está tricotando numa cadeira de balanço
+"Clotis , tudo bem minha filha?"
+"O mestre , tudo ótimo , como vai nosso novo integrante! prazer sou Clotilde , mas todos me chamam de clotis."
+"A gente tava precisando ir lá pro treinador , será que você tem um tempinho pra gente?"
+O mestre tinha toda uma vibe de imponência , de que não tem medo de nada , mas falando com clotis ele parece tão calmo , até parece um pouco com medo
+"Oh , mas é claro! deixa eu só dar um ponto para fechar aqui e podemos ir"
+Clotis da uma tricotada e fecha o trabalho que ela tava tendo
+Olhando para os materiais que clotis usa , a mão dela é de uma grossura inacreditável , os palitos parecem galhos de arvores , e a linha parece um fio de ferro
+Ela começa a se levantar e o mestre da um corridinha para a ajuda-lá 
+"sai daqui velho! já falei que não preciso de ajuda!" - clotis fala rindo enquanto se levanta devagar
+O mestre da uma leve risada e acompanha clotis até a saída 
+O mestre se vira e fala:
+"Quando a gente sair , não teremos muito tempo , você vai segurar na perna de clotis e pelo amor de deus não solta"
+"Na perna? como que ela vai levar a gente?"
+"Pela terra..."
+Eles saem pela parede e agora eles estão em oque parece ser um hotel abandonado , no salão principal
+"Opa clotis , como vai!"
+"Eae marta! tudo certo!"
+"Peço desculpa mulheres , temos pressa"
+"Por mim vocês podem conversar , parece que estamos seguros aqui...."
+Clotis e marta olham para o mestre e depois para o principal
+e o mestre olha com raiva para o principal
+"Aqui fora ... não tem essa de "Seguro"... vamos logo"
+"Só peço para você ficar aqui marta , da ultima vez foi muito ruim te achar..."
+O principal ainda não entende como eles vão para esse "treinador" , mas ele também não quer atrapalhar esses amigos conversando
+"OK , estou esperando minha amiga aqui , pode ficar tranquila que ela demora..."
+o mestre está indo até clotis , ele se abaixa e segura na panturrilha dela 
+o principal , com uma cara de estranhamento tenta copiar os movimentos do mestre e se deita no chão e segura na panturrilha dela
+"Tudo pronto garotos?"
+"Sim"
+"~sim~"
+clotis abre as palmas das mãos , bota no chão e começa a cavar
+Parece que ela é uma retroescavadeira, mas cda dedo dela é uma pá , que limpa a terra , pedra e minérios com uma velocidade inacreditável 
+a mão retira a terra da frente , enquanto o braço e antebraço puxa o resto do corpo ajudando suas mãos a cavar mais
+Não é a velocidade de um carro , mas pra quem está cavando tuneis instantaneamente é bem rápido
+Parece que depois de um , dois minutos cavando chegamos a um sistema de tuneis já feito , ai clotis começa a passar da velocidade de um carro , usando seus dedos para se enfiar nas paredes do túnel e usando seus braços para se impulsionar
+é impressionante como Clotis consegue deixar essa viagem agradável 
+Os dois estão sendo levados no meio de um túnel de terra e para eles está sendo como uma montanha russa
+Depois do que pareceu 5 minutos de montanha russa (uma quantidade de tempo que começa a deixar uma montanha russa "chata") 
+Os três chegam no que parece ser as raízes de uma arvore
+"Muito obrigado Clotis, você já pode voltar..."-Mestre
+"A ultima vez que a gente veio aqui foi pra jas , a quanto tempo eu não vejo o seu armando...."-Clotis
+"Então você vai subir com a gente?"
+"Mas é claro"
+
+"JÁ VOU"- Uma voz de dentro da arvore grita
+"Sem pressa!"-Clotis
+"Não era pra vo... esquece..."
+depois de um minutinho ali de silencio , as raízes da arvores parecem abrir no meio e puxar os três para cima , como um elevador
+Ao subir o principal se vê em uma mansão feita completamente de madeira. Não é uma mansão mesmo , é só uma casa enorme
+Mesmo com seu tamanho ela parece um dos lugares mais confortáveis que o principal já viu desde que chegou nesse plano
+No meio da sala está um homem baixinho , magrinho, cabelo ralo , com uma camisa regata e um short cargo (parece o romario)
+-"Peço desculpas ai a confusão , é que essa danada odeia quando fica gente esperando lá em baixo , ela fala como se estivesse sendo torturada com cosquinhas"
+"Seu armando , a quanto tempo ! Bão?"- Clotis
+"Armando"- O mestre fala com uma leve reverencia
+Seu armando da um abraço em clotis
+"Tudo ótimo minha filha , e por lá como andam as coisas?"
+Armando olha para o mestre e reverencia de volta rapidamente
+"O de sempre , esse velho aqui estressado e a gente vivendo um dia de cada vez. Mas graças a deus agora tem carne nova no pedaço"
+"Prazer , sou principal"
+O principal estende a mão 
+Armando olha para ele com um sorriso , aperta a mão dele e da um puxão
+"Vem cá garoto , vamo passar muita merda junto ainda"
+Eles dão um abraço de um braço só , com uma batida nas costas para selar essa amizade
+"Imagino , como sempre , que eu só seja lembrado quando alguém tem que treinar..."
+"Sabe como as coisas são..."- Mestre
+"To brincando baixinho , vamo testar esse muleque... só tenho que dar uma revitalizada na sala de treinamento, desde a ultima vez não toquei nela"
+"Armando , foi ótimo te ver mas uma mulher da minha idade já não aguenta tanta farra assim , vou encontrar com a marta antes que ela saia daquele hotel"
+Armando vai até clotis e da um abraço nela
+"As portas estão sempre aberta clotis , boa volta!"
+O mestre levanta a mão e da um sorriso
+"Brigado clotis , até o qg... até a marta?.... até mais, você entendeu"
+"Tchau garoto , e mestre , não esculacha o muleque"
+Com isso as raízes da arvore descem clotis ,e se ouve o barulho dela voando pelo túnel
+"Então , com oque estamos trabalhando aqui?"
+"O muleque mexe com sombras... ele até faz objetos , mas eles não interagem fisicamente com nada. Mas a gente veio aqui porque aparentemente ele também consegue se teleportar pelas sombras , só que ele não sabe direito como fazer"
+"Vai precisar de algo especial na sala?"
+"Vamos começar com o simples, só faça  um toco no meio , e se conseguir , duas sombras , uma em cada parede"
+Armando começa a andar e o mestre vai atras
+ele vai até uma das paredes e começa a descer umas escadas
+as escadas são beeeeem finas , armando desce meio de lado e o mestre nem se preocupa devido a seu tamanho
+"Opa , desculpa ai" armando grita vendo meu desconforto descendo tentando me espremer
+As escadas se abrem automaticamente, a madeira se rearruma de forma que a escada aumenta de largura
+"devo ter mudado algo de lugar , ai as escadas diminuíram"
+"Sem problemas ...."
+Ao descer as escadas , de um lado se tem terra compactada , e do outro as raízes da arvore
+ao descer até certo ponto , o lado das raizes se retrai em um cubo
+Um cubo do tamanho de uma sala , no momento existem vários pitocos de arvores com grossuras diferentes enfileirados pela sala 
+Alguns quebrados outros intactos
+"Porra tinha carbono aqui esse tempo todo... Bom pra mim"
+Armando parece que se prepara pra correr , encostando as duas mãos no chão
+A sala rapidamente começa a se remontar , os tocos de madeira entram deixando a sala limpa
+Os tocos quebrados são rapidamente consumidos de volta , assim como uma arvore consegue "Consumir" matéria inorgânica e transforma-la parte de si , a arvore está pegando seus próprios galhos e voltando eles para si 
+um tronco de madeira surge no meio da sala, dois buracos paralelos são formados no lado esquerdo e direito da sala , ao mesmo tempo que a luz da sala está sendo redirecionada para que não consiga entrar nesses buracos , fazendo duas sombras
+"Vê se elas tão boas muleque"
+"Como você sabe sobre sombras "boas ?""
+"Você acha que é o primeiro que a gente treina com sombras? é mais comum do que você acha"
+"Não sabia que vocês tinham treinado algue.... porque você achou que fui eu que fiz aquilo com os gigantes? não pode ser essa.... pessoa ai que vocês treinaram"
+Os dois se olham....
+"HAHAHAHAHAH , confia , definitivamente não foi esse muleque que a gente ta falando"- Armando
+"Eu não teria tanta certeza...."- Mestre
+"Tá brincando né cara , aquele muleque não faria nada sem você..."
+"Esquece isso , estamos aqui para treinar ele... Queria que você tentasse transferir o momentum de um portal para outro"
+"Como assim?"
+"Tipo , sai correndo de um portal para o outro , e ve se você vai sair do outro lado com impulso"
+"Não sei se faz tanto sentido , porque quando eu chego lá eu.... eu pelo menos cheguei parado todas as vezes , não sei se eu for correndo oque vai acontecer comigo lá... ok , gostei vambora"
+O principal vai até o buraco a sua esquerda , olha par ao buraco na direita
+"Armando! , consegue jogar o toco pro lado , só para eu não bater nele correndo..."
+O toco se move antes dele terminar a frase 
+Então o principal olha para o buraco e começa a correr
+ele fecha os olhos
+BUM
+cara na parede
+"Eu vou preparar um chá , sabemos que isso demora... vai querer de que?"- Armando
+"Qualquer coisa calmante , mas pode me surpreender"
+"Pódeixa"
+
+O mestre anda até o principal no chão , que ainda está tentando superar a dor de ter ido com toda força pra cima de uma madeira aparentemente de ferro 
+"Você realmente achou que seria tão fácil assim?"
+"Vai que né , descobri esse poder na cagada , vai que eu tenho o dom"
+"Você nem sabia oque você tava fazendo , essa é a diferença... você acha que você respira da melhor maneira possível?"
+"Existe maneira melhor de respirar?"
+"Existe, só que ninguém se especializa nisso , já que só vai te deixar mais oxigenado fazendo você funcionar levemente melhor. Aqui é a mesma logica , você sabe se "teleportar", mas não da forma mais eficiente , você conseguiria viver sua vida só sabendo oque você já sabe, mas a gente quer tirar eficiência do seu poder. Acredito que alguém da marinha por exemplo seja obrigado a aprender a respirar direito , oque daria a eles "superpoderes"... entendeu , você ta fazendo a mesma coisa, você ta aprendendo suas habilidades para conseguir usar elas da forma mais eficiente... pra isso você precisa entender aonde você está quando está nesse "corredor" , você precisa entender como sair no lugar que você quiser , você precisa deixar tudo que você consegue fazer que nem respiração , algo que você nem pense"
+"Olha , eu desde que vim para esse "plano" , eu escuto frequências , como se fosse um chiado de tv mais um rio mais um ventilador mais um White noise aleatório mais alguem gritando, eu pra entrar no.... vamos chamar de sombra... para eu entrar na sombra , eu preciso focar em um desses sons"
+"Tá , fiquei curioso com o fato de você ouvir "frequências" diferentes , um rio , uma tv , uma pessoa gritando... já tentou se concentrar em cad um delas , para ver se você vai para outro lugar?"
+"Boa ideia..."
+O principal se levanta e bota a mão dentro do buraco e fecha os olhos , e se concentra no barulho de grito , que tem uma "frequência" diferente mais fácil de ser isolada
+Ele vê a imagem do quadro "o grito" na sua mente , e começa a se ver entrando na boca do quadro
+Até ele abrir os olhos e se ver dentro do corredor
+Frustrado , ele só sai de lá
+Ele está caído no chão , ele abre os olhos rapidamente
+"QUANTO TEMPO EU PASSEI LÁ?"
+O mestre fica com uma cara de preocupação
+"Meu deus oque que houve? Você ta bem?"
+"Sim sim , tava só brincando , não deu em nada"
+O mestre da um tapão bem dado na nuca do principal
+"Você tentou sair de lá com momentum? você tentou sair de lá com os olhos abertos? Ou foi só piadinhas mesmo?"
+"Eita... foi mal"
+"vai lá...."
+(Começa a montagem de treinamento , aqui duas coisas que ele aprende importantes. A primeira é que ele precisa fechar os olhos no mundo normal para entrar na sombra , e o momentum só importa na hora de sair. Ele ainda não consegue sair exatamente na sombra que ele quer , mas ele já conseguiu se "teleportar" para a outra sombra , mas quando veio uma terceira , o outcome era basicamente aleatório)
+Armando desceu com os chás
+"Tá , pode ir indo lá , vou tentar mais umas vezes aqui"
+O mestre vai em direção ao armando , relaxando sua postura
+"Você entende que não é uma questão de preparação física , mas sim mental"
+O principal entra na sombra novamente
+Instantaneamente ele só é ejetado por uma outra sombra
+"Pelo menos o treino dele não afeta a gente"- O mestre fala se sentando e pegando sua xicara de chá
+"Como assim?"
+"O tempo dele lá dentro não passa pra gente"
+"Lá dentro?"
+"Não são tuneis , que é oque parece pra gente , parece que todas as sombras são porta...."
+O mestre teve um devaneio
+"Portais?"
+"Sim , portais para um "dimensão" que funciona de uma forma diferente da nossa , e depois ele pode voltar por onde ele veio"
+O principal se joga de novo e é ejetado , agora pelo outro buraco
+"Calma! tive uma ideia aqui... Imagina um bloco cheio de furos , e esse furos se conectam em um único furo final, como se fosse um funil ao contrario. Talvez seja assim que você vai para essa dimensão , você precisa voltar pelo "Tunel" que você veio , imagino que isso deva ser difícil"
+"Acho que entendi , posso tentar si..."
+O principal se joga novamente pela sombra 
+Na hora de voltar , ele se visualiza em um túnel e tenta se concentrar em algum dos sons que ele lembra estar escutando
+Ele pensa no grito 
+Quando ele abre os olhos ele está no meio da mata 
+AHHHH
+Está de noite , mas ele consegue ver a enorme arvore aonde ele estava treinando, oque traz uma segurança para ele 
+mas olhando para sua volta , ele volta a ficar com medo e fecha seus olhos para voltar ao corredor infito
+"Nossa senhora , nunca achei que eu estaria aliviado de estar aqui"
+Agora que ele foi para outro lugar , ele consegue lembrar que os sons na floresta eram beeem diferentes dos dentro da arvore 
+Faltava a tv , o White noise
+Parecia que ali tinha muito mais.... grito
+é isso , ele focou no som e voltou para a origem daquele som 
+Ele reconstrói o básico do som que ele ouvia na arvore em sua cabeça , fecha os olhos e...
+AHHHHHH
+AHHHHHH
+AHHHHHH
+ele reapareceu no chão atras de armando , na sombra que armando projetava no chão
+"Meu deus oque houve? você ta bem? quanto tempo você passou lá?"
+"Que isso como assim?"
+"Você ficou muito tempo preso? oque houve?"
+"Eu fui parar em outro lugar"
+O mestre olha com uma cara de confuso... ele pensa.....
+"Olha , eu achava que tinha uma questão de conseguir ver a sombra que você estava teleportando, nossa , eu realmente não sei nada do que você faz garoto... Eu tava com medo porque você pra gente volta instantaneamente , e dessa vez você ficou quse um minuto fora , não sei... achei que pudesse ter se perdido nos "tuneis"...."
+"Não , você tava certo , são tipo esses tuneis mesmo , mas é beeeeeem difícil voltar para o lugar certo , os sons que eu ouço em cada lugar são o ponto de referencia para voltar aquele lugar"
+"E você foi para aonde exatamente? e você focou no que exatamente?"
+"Foquei no que parece ser um grito , e fui para lá fora na mata"
+Armando fica com uma cara de espanto
+"Jesus , realmente não aconteceu nada?"-Armando
+"Você focar no grito foi uma ótima escolha hein....."
+"Era o mais fácil...."
+"Você viu alguém na floresta? alguém te viu? Olhou para todo os lados?"
+"Ninguem me viu eu acho , fiquei no máximo um minuto lá foi tudo muito rápido"
+"Existem umas "pessoas" nessa mata , que definitivamente não seria uma boa estar perto , em nenhum momento. Existem algumas que só de sentir seu cheiro , já estariam vindo para cá , só para poder comer seu esto..."
+No que armando fala isso um homem enorme de uns 3 metros , com apêndices alongados e pelagem de lobo começa a bater no tronco da arvore , existe umas "janelas" na parte de cima , aonde os três sobem para ver oque são essas porradas 
+Quando eles olham para baixo , o homem já está olhando para eles e assim que o principal vai para o "ar livre" , o homem simplesmente começa a subir o tronco em direção a eles 
+"Aparentemente você foi seguido sim"
+"Eae muleque , oque que você vai fazer?"
+Na cabeça do principal , ele está ouvindo a mente desse homem , ele consegue ouvir oque parece ser um balbucio infinito continuo   
+"EU?! VOCÊ ACHA QUE EU SEI OQUE FAZER? SEU NOME É LITERALMENTE MESTRE"
+"Vê se ele tem medo , tenta jogar algo nele"
+O mestre está hypercalmo
+O principal só obedece , como está de noite , achar uma sombra boa não é o problema
+Ele imagina uma bigrona enorme flutuando
+Vê ela descendo 
+Mas o monstro não tem medo , ele só vai para cima deles 
+quando a bigorna e ele estão indo a um encontro , a bigorna deixa de existir antes mesmo de enconstar no monstro 
+Como se o principal tivesse desistido
+"Ah baixinho , deixa o garoto , pelo amor de deus"
+O principal está a beira do choro , vendo aquele mosntro subindo aquela arvore como uma besta
+Armando vai para perto do principal
+"Fala meu jovem , qual o meu poder?"
+"Arvore?"
+O lobo subindo a arvore do nada para 
+ele olha para suas mãos garrudas , que agora estão presas a arvore
+Ele tenta tira-las puxando e solta um choro de cachorro
+ele tenta sair dali e nada
+ele olha para os tres
+Agora o principal já ficou aliviado
+Ele vê troncos crescendo na area da barriga do monstro
+e do nada os troncos parecem o bruce lee , crescendo e diminuindo de forma rapida , dando milhares de socos na barriga da criatura
+Oque era uma cena de medo , agora vira uma cena de pena
+O monstro está preso contra a vontade dele recebendo oque parece ser o espanco da vida
+até que por 2 segundos os socos param
+e vem um uppercut de baixo que envia a besta como se fosse a equipe rocket
+(Cena irada do Arnaldo dando um toca aqui com folhas caindo no timing[uma folha cai dando o tapa de cima para baixo , ela gira no ar dando o tapa de baixo para cima e depois cai no soquinho dele])
+"Esse cara é um filha da puta , ele sempre foi um bully desgraçado , e agora ele vive aqui tentando ser um opressor com todos que passam nessa floresta... ele é um bully de 1800 , então ele é bem idiota para um bully... pega qualquer criança dos anos 90 , vai dar um banho nele... ele ainda fica falando coisa de religião e chamando as mulheres de bruxa , ele realmente é desprezavel... ele sempre deve ter desejado o poder supremo , agora ele veio e realmente ele é poderoso , ams tambem é a besta demoniaca que passou a vida inteira falando mal"
+"E como você sobreviver aqui?"
+"Você não viu oque aconteceu não?"
+"Mas isso aqui , se você quiser sair?"
+"Eu não quero , mas mesmo se eu quiser , ainda tenho minhas proteções... hahaha , arvore... acabei de lembrar , você não sabe qual meu poder"
+"Arvore?"
+"É , tipo isso... Eu sou meio que o Aquaman das arvores , eu falo com elas , só falo... eu tenho como ajuda-lás também , com minha produção de carbono"
+"Então qualquer lugar com arvores você ta bem?"
+"Não , como eu disse, eu falo com arvores , você fala com humanos, você consegue fazer qualquer um fazer oque você quiser? exatamente... Eu tenho ela , minha companheira, ela faz oque eu pedir , e eu faço oque ela pedir... ela teve filhos recentemente e isso me deixa mais seguro por essas bandas , mas elas ainda são beeeeeeeem jovens,e eu não vou ficar forçando meus filhos a caírem na porrada"
+O principal ida está meio ofegante desse pico de adrenalina do nada
+"Você foi bem mal muleque"
+"Porra oque você queria que eu fizesse"
+"Não sei , mas as vezes as pessoas fazem algo inesperado.... você só travou"
+"EU IA FAZER OQUE VELHO? TENTAR TELEPORTAR PRA DEBAIXO DELE E MORRER?"
+"Ou você podia ter saído em uma sombra aqui em cima e cair dando um socão nele"
+"Ah ta que um soco meu ia dar em alguma coisa"
+"Se continuar assim realmente nunca vai fazer nada...."
+"Ta bom garotos , calma , os dois não fizeram nada , essa aqui ta na conta dela"-Armando da uns tapinhas na casca da arvore
+"Desculpa por tudo armando , acho que ta na hora da gente terminar esse chá e voltar para casa"
+"Que isso mestre, quando que eu vou achar ruim enfiar a porrada em uns otarios por ai?"
+Eles falam isso voltando para a sala principal 
+O principal fica um pouco e observa a "floresta" , que daqui de cima é possível ver que é um cantinho de uma das cidades
+Parece um parquinho de alguma empresa , ou algo parecido
+Ele consegue ver a torre dos lumieres daqui e pensa que a menos de uma semana atras ele não tava nem ali , nem sabia oque era lumiere , oque era comilula , NÃO SABIA QUE TELEPORTAVA
+"Não vai vir muleque?"- Ele ouve a voz do armando o chamando lá dentro
+O principal da uma ultima olhada , respira fundo
+e começa a descer para encontrar eles
+
+CAPITULO 3 : POWER DE-CREEP
+
+Os dois decidem dormir ali na casa da arvore, já que para voltar ele vão precisar caminhar pelos tuneis feitos pela clotis 
+E a manhã chega
+O principal abre os olhos com o mestre já em pé tomando seu café
+"Bom dia, é melhor você não demorar para acordar , eu tenho pressa para voltar"
+"Bom dia, velho..."
+O principal se levanta e sobe para ver o parque de manhã e a vista é belíssima 
+O sol nascendo no deserto e a cidade toda desligada 
+O mestre sobe , trazendo uma xicara de café para o principal
+"Você vai precisar , a gente vai andar tudo de volta"
+"Eita.... não tem como chamar a clotis para cá?"
+"Normalmente a gente manda umas batidas no túnel e ela costuma aprecer, eu tentei a meia hora atras e não deu nada"
+"Você não fica preocupado com isso?"
+"Na verdade não , porque ela deve estar na marta agora , e é necessário que a marta esteja no mesmo lugar , ouça e avise a clotis para buscar a gente"
+"Você não tem celular aqui não?"
+"Tem , mas tudo nesse cubo é 100% controlado , não podemos nos dar o luxo de celulares"
+"...."
+O principal só consegue pensar "É foda"
+"Tudo pronto? deve demorar uma hora para gente chegar"
+"Tudo certo , vamos só nos despedir do armando"
+Os dois descem e encontram armando entrando na arvore , todo sujo de terra e completamente suado
+"Ohhhh bão? tava cuidando dos meus filhos, parece que cheguei na hora certa de dar tchau hahaha"
+"Foi bom te ver amigo , espero voltar para treinar esse muleque mais vezes" Mestre e armando dão um abraço
+"Muito obrigado por tudo cara... espero que você fiquem bem aqui!" Armando e o principal apertama mão mais armando da aquele puxo para dar um abraço
+"Venha sempre que quiser , pode vir sem o velho que ai eu te mostro minhas plantas ~especiais~"
+O mestre olha para ele com uma cara de riso e os dois são levados para baixo pelas raízes da arvore
+O mestre liga uma lanterna que tem com ele, e segue pelos tuneis
+Depois de uns 2 minutos andando calados o mestre pergunta
+"E aqui , você ta sentindo algo diferente? você precisa entender os padrões dos seus poderes , tudo no fundo tem uma logica ... e aqui a gente está basicamente rodeado de sombras"
+O principal deixa o mestre andar um pouco na frente
+"Deixa eu ficar na sombra mesmo... então , parece quando eu estava lá no qg preso na gaiola , parece mais um rio... não tem tantos outros sons ... aqui tem levemente um pouco mais"
+"Eu não sei muito bem aonde que a parte de dentro da marta fica , mas quandoa gente saiu de lá , não tinha ninguém , pode ser que tenha a algo a ver com isso... você não tinha dito que ontem focou no grito? talvez você tenha parado perto do lobisomen por causa disso... o grito era dele"
+"Mas se ele tava gritando , porque vocês não ouviram?"
+"Pode ser que ele não tava realmente gritando , mas nesse mundo de sombras , ele tava?"
+"Gostei da ideia... então aqui ta com barulho de rio porque os objetos aqui são inanimados..."
+"Por ai"
+Eles andam mais um pouco
+"Mas ai , você não falou até agora seus poderes"
+"Sentidos , todos os meus sentidos são muito bons..."
+"Nossa você cheira como ninguém..."
+"Eu consigo dizer se alguém ta mentido por exemplo , estou ouvindo seus batimentos agora"
+"Então porque todo aquele drama quando você me prendeu?"
+"Hoje em dia os caras estão muito bons , tipo , MUITO bons... confia em mim , foi necessário"
+"Então hoje em dia seus poderes estão ... defasados , os cara conseguiram superar seu poder..."
+"Tipo , eu to vendo que você ta falando essas coisas com a maior tranquilidade do mundo...
+O mestre da uma banda nele e segura ele pelo pescoço antes que ele caia
+...Eu não estaria tão tranquilo se fosse você" e ele deixa o principal cair no chão
+"Ah , mas isso ai é pq vc luta kung-fu , karate , sei lá. Como que seus sentidos te ajudam a ser melhor lutando"
+"Você realmente nunca lutou na sua vida né , nem tudo é só sobre enfiar a porrada no outro... um dia você aprende"
+Passa uma hora e eles chegam no túnel de onde eles vieram 
+eles precisam subir no buraco que foi criado na parte de cima do túnel
+"Tenta se teleportar la pra cima, ótima hora para treinar..."
+O principal faz oque agora já virou costume para ele 
+Todo o processo de fechar o olho , se concentrar no som , etc... 
+agora é bem mais rápido
+Dentro do corredor infinito ele faz o contrario e foca no rio , mas tenta dar um jeito de cair no buraco de cima....
+ele só cai de cabeça para baixo no túnel
+"Ok! Boa! , você conseguiu sair em outro lugar!"
+"Nossa esse negocio é bem difícil, imagina você estar pegando uma onda e quando ouvir a frequência certa ter que pular dentro... é bem esquisito "
+"Tá , eu vou te dar um pezinho aqui depois você me puxa..."
+Os dois sobem e começam a escalar de volta a superfície
+E quando sobem...
+O hall do hotel que eles estavam , completamente vazio 
+"Eita porra...."
+"Oque? Cadê a marta?"
+"Exatamente , cade ela"
+"Normalmente qual o esquema de vocês?"
+"Depois que a clotis volta , ela deve esperar pelo menos 24 horas no mesmo lugar"
+"Nossa , eu achei que ela era livre... Ela não pode estar por aqui em algum lugar?"
+"É uma das poucas coisas que eu peço pra ela , é dificil eu ficar um dia inteiro fora... ve se você consegue achar alguma pista"
+O principal tenta ver qualquer porta , canto escondido , ou lugar que não dê para se ver a olho nu 
+"Puta merda , acho que levaram ela"
+"Que?!?! Você falou que os lumieres não ligavam pra ela"
+"Não ligam , eles não deixam rastros , esse deixou..."
+O principal vai para o lado do mestre , que está olhando para o chão
+"Oque você achou?"
+"Olha essas marcas, da pra ver que alguem arrastou alguem por esse chão"
+O principal olha e tem vagas lembranças do que o mestre ta falando
+"Sentindo o chão , isso é recente , não deu tempo do vento bater e quebrar os padrões formados pelo corpo no chão"
+"Ok velinho , top demais esse poder"
+"Alguem raptou a marta , puta merda , mas porque?...Rapido , tenta achar algum lugar e ve se você consegue ouvir algum grito , ou algo parecido"
+O principal vai para uma das portas que ele abriu , era um antigo closet de faxina
+Ele joga tudo pro lado , da uma espanada rapida na poeira 
+entra e se fecha la dentro
+Ele consegue ouvir oque parece ser uma voz cantando opera ,um barotono 
+"Acho que achei algo , mas não parece ser desespero"
+"Vai atras , mas cuidado para não aparecer na rua"
+O principal fecha os olhos , se vê caindo em cima do corredor , mas antes que ele caia no chão ele ja se ve teleportando de volta , indo atras do som
+Ele vai com um momentum inacreditavel eeeeeee BOOM
+ele está em um lugar muito escuro , ele acabou de bater a cabeça
+quando do nda duas mãos enormes agarram ele
+"Muleque?"
+"Clotis? Aonde a gente tá , porque ta tudo escuro?"
+Só se ouve o barulho seco da mão dela entrando na terra e um buraco é criado na superficie , trazendo luz para dentro do que agora se vê um quarto
+"Ontem eu cheguei e vi a marta sendo levada, lembrando de tudo que o mestre falou , melhor não arriscar com esses lumieres..."
+"Não são os lumieres, pelo menos ele falou que não são... Ta limpo lá em.... cima?"
+"É"
+"Vamos , precisamos saber oque aconteceu..."
+Clotis segura o principal pela cintura e sobe os dois , subindo o tunel , eles vão para dentro de um tubo de ventilação
+"Eu vi o cara levando ela , me escondi aqui dentreo e .... e..... fiquei nervosa , comecei a cavar"
+Clotis quebra uma grade que separava eles do hall principal
+eles saem da tubulação 
+"Clotilde?!Oque você ta fazendo aqui? Oque houve com a marta?"
+"Eu mal comecei a subir pra cá , ja dava para ouvir uns barulhos esquisitos , subi com a maior cautela do mundo. No que eu olhei no hall eu vi , um cara enorme com uma roupa de hospital sem braço e completamente deformado
+ele tava usando tipo uma meia cheia de pedras e enfioua  porrada na marta , e ele não parava de gritar , parecia um babuino..."
+"Porque você não fez nada para empedir ele?"-Principal
+"Que que eu ia fazer ? cavar um buraco para ele se jogar lá comigo e me moer na porrada? dependendo da situação , até consigo me virar , mas naquela situação não tinha como"
+"Tá , pelo menos o nosso alvo aparentemente é facil de achar , um babuino gigante deformado com roupa de hospital... Clotis , consegue levar a gente um pouco mais para cima?"
+Eles andam até o elevador , que obviamente está quebrado, clotis abre a porta com uma das mãos
+ela segura o mestre pela cintura , pula um pouco e deixa a panturrilha para o principal se segurar 
+clotis começa a subir e o mestre grita "NÃO PRECISA SER O ULTIMO , O 8 ANDAR JÁ TA OTIMO"
+A mão de clotis rapidamente segura nos cabos de aço do elevador 
+A MÃO DELA SAI FAISCA 
+A clotis solta o mestre no chão do andar 
+e o principal segurado na panturrilha dela 
+"Pode se balançar meu filho , eu não caio daqui não"
+O principal se balança até o pé dele enconstar no chão do andar 
+"Se a gente ficar junto vai ser pior de achar esse cara , vamos se separar... mas vamos checar tudo primeiro...AHHHHHHHHHHHHHHHHHH"
+Depois desse grito o mestre segura no braço dos dois e espera um pouco, então ele sussurra
+"Fiquem ligados , parece não ter ninguém aqui , mas se tiver , a pessoa sabe quem tem gente aqui"
+"Você não lembra que eu acabei de ver se tinha alguém por perto"
+"Quando eu confiar em um novato assim você pode me matar , que não sou eu"
+"Agora SE tiver alguém aqui você avisou pra ele , mas não pra gente"
+"Relaxa , eu sei oque eu to fazendo... mas pra garantir , faz mais um check"
+o principal fecha os olhos
+"Nada"
+"Você ta na luz idiota"
+"Epa"
+Ele entra em um dos quartos e fecha os olhos
+"Nada , de novo"
+"Ok , podemos ir com UM POUCO mais de calma... vamos cada um pegar um lado do hotel , tem um lado sem janela devido as escadas , cada um pega um corredor e grite o máximo que der se virem alguma coisa. Ah , Clotilde , ve se você consegue abrir a porta dos elevadores que você encontrar , talvez vamos precisar sair rápido daqui, e vai ser uma maneira melhor de se comunicar"
+Clotis concorda com a cabeça e já se joga devolta no poço do elevador , se pendurando pela corda e e salta para o outro lado , quebrando a porta só com o impacto do seu corpo
+"Tá , to do outro lado"
+"Eita... vou pra parte da frente então "-Principal
+Seguindo reto nesse corredor de um hotel abandonado , o principal consegue ver a parte "esquecida" da cidade , é muito esquisito pois olhando para os outros lados , é possível ver pessoas em todas as partes , menos nessa
+Parece que existe algum tipo de proteção ali ou o completo contrario , a falta completa de proteção...
+Cheganjdo a parte da frente do hotel, ele está virado para o museu lumiere 
+Tem um pequeno trecho dessa cidade abandonada que ele consegue ver , de cima a maioria dos prédios mais pertos do hotel estão completamente destruídos
+Existem umas duas quadras que ainda existem alguns prédios "funcionais"
+~tem que testar né?~ 
+O principal fecha os olhos e tenta ver se sente alguma coisa
+Ele consegue ouvir movimentação em alguns dos prédios 
+De cima é possível ver oque parece ser um galpão enorme bem na beira da cidade , com algumas divisórias no teto
+Realmente , a população marginalizada dessa área é a galera que está vivendo bem 
+Olhando para a rua com mais calma , é possível ver algumas pessoas sentadas nas calçadas , alguns comércios abertos , mas uma vibe bem cidade ultra-pequena 
+Enquanto isso , o mestre está tentando achar o cara , a visão dele é bem foda 
+Mas ele está vendo cada canto de uma cidade vazia , se qualquer poeira se mexesse na rua ele estaria vendo
+Clotilde mal consegue enxergar alguma coisa , o óculos dela de enxergar longe ta la dentro da marta
+O principal espera mais uns 5 minutos e tenta ver se o mestre ou a Clotilde acha...
+"Eae , achou algo?"-Mestre
+"Eita porra! ... Talvez , vê oque que você acha"
+O principal leva o mestre para onde ele consiga ver a rua principal
+"Ali , eu consigo sentir uma movimentação ali , pode ser que seja só onde tem mais gente , realmente não sei. Mas definitivamente eu sinto mais presenças ali"
+"Melhor do que nada , vamos ver se a Clotilde achou algo"
+Os dois andam em direção ao corredor que Clotilde estava
+Do começo do corredor , Clotilde está parada olhando com a cara colada no vidro para a rua
+Chegando mais perto , ela não parece perceber a chegada dos dois
+"Clotilde?"
+"Opa , oi , eu não achei nada mestre , ta difícil"
+"Sem problemas , o muleque tem uma pista. Vamos"
+Clotilde segura o principal pelo casaco e o mestre sobe em sua escapula
+Clotilde só deixa a gravidade trabalhar , freiando com a sua mão no primeiro andar
+todos saltam e o mestre começa a falar 
+"Vamos por dentro das ruas , não queremos ser vistos por qualquer pessoa até chegar lá , são umas 5 quadras então preciso da concentração de todos"
+"Se aparecer alguém oque a gente faz?"
+"Você e Clotilde até podem aparecer , eu não , no segundo que alguém me ver, estamos fudidos"
+"tá , então bota o meu casaco ai pra gente ter alguma chance pelo menos"
+O mestre bota o casaco do principal , que parece um vestido nele 
+"Vai ver se não tem ninguém na rua , e vamos"
+O principal vai até a porta do hotel , confere os dois lados da rua 
+Aparentemente não tem ninguém 
+"Tudo certo"
+Então eles passam pelas portas giratorias
+A rua continua com só o barulho de vento 
+"Rapido , vamos por esse beco"
+Eles entram em uma ruela logo na frente deles , ela ja leva para a proxima quadra
+"Porque aqui é tão vazio? oque era esse lugar?"
+"Aqui era só mais uma parte da cidade , mas começaram a surgir uns boatos que o farol não funciona por aqui, com o tempo a população dessa area começou a diminuir... mas tudo isso foi bem recente , nos ultimos 20/25 anos"
+"Então é por isso que vocês se escon..."
+"Fala baixo ... Sim... mesmo não tendo o farol , esses filhas da puta ainda tem olhos em todo lugar , o farol é só mais rapido e imediato "
+Ele chegam ao final da ruela e são obrigados a voltar a andar nas calçadas 
+"Vai você na frente , clotis atras e eu no meio , tentem me esconder"
+Clotis e principal trocam um olhar
+"Sim , ele é sempre assim"
+Então eles começam a andar 
+"Confere se não vem ninguem na esquina"
+O principal olha para rua que eles devem entrar , e nada
+"Ta livre"
+O mestre bota a cara para conferir 
+"Tá limpo , vamos"
+Eles começam a andar de novo
+"Mas assim , porque aqueles bandidos não moram aqui? acho que seria bom para algumas pessoas não serem vigiadas"
+O mestre está quase não falando 
+"Essa porra dessa cidade não tem essa de bonzinhos e malvados , todos são ~iguais~ os bandidos não precisam se esconder , só precisam não fazer maldades com pessoas da cidade... eles roubarem uns nomades é "proibido" , ams chega na hora do julgamento , todos acabam engulindo as falacias vomitadas por algum daqueles oradores filhas da puta... Sempre parece que é um povo tribal maluco que quis entrar aqui e fazer mal a população, fazendo os bandidos virarem herois... Mas se eles decidem ir para a cidade e assaltar alguem ,ai ele ta fudido... Eles conseguem ver quem se importa com oque , quais os pensamentos sobre cada coisa que cada um tem , e eles manipulam isso dia... RAPIDO , MAIS UM BECO , VAMOS"
+Eles atravessaram duas quadras pelas calçadas , e agora o mestre achou mais um beco que aparenta chegar na rua que eles querem chegar 
+Esse beco parece mais "vivo" do que o outro , mas de uma maneira que um beco é "vivo"
+O outro parecia petrificado , a ultiam coisa viva que se mexeu ali foi a pelo menos 2 anos atras 
+Esse beco ja tem uma lata de lixo com moscas , uma pixação recente 
+"Olha , não podemos sair na rua já que sabemos que aqui existem pessoas , vamos tentar fazer algum tipo de reconhecimento antes de..."
+"Aqui , olha esse lixão , tem algumas daquelas roupas de hospital aqui"- Clotis
+"Toma essa velho otario"- Principal
+"Oque seria desse time sem você clotis, agora só precisamos saber de qual predio que veio esse lixo , o da direita ou da esquerda"
+"Deixa eu ver se eu sinto algo aqui"
+O principal fecha os olhos e sente oque parece ser alguns babuinos 
+"É o da direita , você tinha falado que parecia um macaco não? to ouvindo varios babuinos aqui"
+"Clotis , não podemos sair sendo percebidos , você conseguiria cavar um buraco silenciosamente , para pelo menos eu passar"
+Cltois se abaixa ao chão e com um dedo começa a cavar , parece que ela quer separar o prédio do chão
+ela com um dedo vai passando no rodapé e quebrando o cimento , até chegar na terra , depois com algumas mãozadas ela consegue passar da parede do prédio
+"Já posso abrir o buraco ou você quer fazer as honras?"
+"Deixa que eu abro, quero o mínimo de barulho possível"
+O mestre se nfia no buraco , seu corpo pequeno cabe tranquilamente em pé
+Ele chega na parte de dentro do preido , olha para tras e começa a cavar para cima
+ele estava meio abaixado devido ao "teto" , que assim que ele abre a luz de dentro cai na cara dele
+ele se levanta
+E o principal e a clotis só veem ele rapidamente sendo levado
+...
+Eles se olham
+"Isso é normal?"- Principal
+"Não"
+...
+"Que que a gente faz meu deus!?"
+"Vamos ter que entrar lá , eu e você"
+o principal bota a mão no ombro de clotis , que é bem mais baixa que ele 
+ele fecha os olhos e consegue ouvir um "la la la" saindo com melodia
+"Não sabemos oque tem lá dentro , mas não podemos peidar... eu e você clotis , vambora"
+Clotis com um soco quebra a parede que dividia eles do prédio
+eles conseguem ver um galpão abandonado com uma escada que leva para o subterrâneo
+"vamos com calma , nosso objetivo é achar a marta e o mestre e trazer eles de volta"
+"Tá , mas se eles não conseguirem se carregar sozinho?"
+"Eu acho que vamos ter que fazer um freestyle , sempre se comunicando"
+Os dois concordam com a cabeça e seguem em direção a escada
+Logo no começo da escada eles conseguem ver
+São uns 10 homems com a descrição que clotis deu , homens que parecem orangotangos deformados , com partes faltando , olhos cainda , boca sem dente
+Cada um com sua particularidade
+Existem varias macas de cirurgia espalhadas pelo porão, com pessoas nelas 
+Da pra ver a marta inconsciente em uma delas , conectada a um desses monstros
+ao lado dela existem maquis umas 4 pessoas no mesmo processo
+Bem no meio do porão está o mestre , amarrado em uma cadeira 
+com um homem de cabelo longo com tatuagens da cabeça aos pés
+"A QUANTO TEMPO PRINCIPAL , NOSSA BATALHA AINDA NÃO TERMINOU"
+"Você conhece esse cara?"-Clotis
+"Não..."
+"QUE PORRA DE PRINCIPAL , VOCÊ PEGOU O CARA ERRADO"
+"É verdade né , não tem essa de envelhecer aqui, e também , cade sua atitude?"
+"Eu só quero minha amiga de volta cara"
+"Ahhhh , que pena , você quer sua amiga... se fudeu , sua amiga , qualquer uma dessas pessoas que seja, agora é só um saco de células tronco para o meu exercito"
+"Você ta clonando pessoas aleatórias no meio da rua? e criando elas desde bebe? você vai ter um execito daqui a 25 anos?"
+O homem da um tapa na cara do mestre , que consegue desviar jogando a cadeira para tras e voltando
+"HA!"
+O homem segura a gola do mestre e da um tapa na sua cara 
+O tapa dele deu um rasgo na cara do mestre , o cara usa uns dedais com laminas na ponta
+"Você pode até não ser o principal... mais um saco de células vai ser ótimo"
+O homem bate palmas 
+Os monstros olham
+"Levem ele para uma das macas"
+Alguns monstros se olham e começam a discutir em grunhidos
+não da pra entender oque eles estão falando 
+mas parece que eles estão vendo quem que vai fazer oque o cara ta pedindo
+um soca o braço do outro , que devolve
+O que deu o primeiro soco fic bravo e da uma cabeçada no outro
+que faz um barulho de cachorro chorando e vai em direção ao mestre
+"Vamos galera , não vai dar pra ganhar de ninguém se vocês ficarem assim... jájá vocês vao ficar perfeitos"
+Clotis e o principal veem essa troca
+"Algum plano?"-Principal
+"Não , eu consigo cavar , mas acho que não consigo bater em ninguém ali dentro"
+"Tá , aparentemente a única pessoa com poderes aqui é o tattoado ,mas não sabemos exatamente oque... sei oque a gente pode fazer... Esses caras precisam de células tronco , e olha o estado deles... minha tese é que eles mal se aguentam em pé , eles não são deformados , o corpo deles não sustenta o próprio peso, e é por isso que eles tem seus membros caindo"
+"oque que é células tronco?"
+"Tá , olha , precisamos tentar chamar no máximo dois aqui pra cima e ver o quão difícil é matar um deles, ou talvez distrair eles..."
+"posso fazer um barulho?"
+Os dois tentam se esconder em alguns restos de caixas deixados ali 
+O principal acena com a cabeça para clotis 
+Clotis abre sua palma e bate no chão
+Rapidamente um dos monstros sobe
+O principal de trás da caixa , lembra do buraco que foi feito para o mestre entrar
+e faz um cachorro saindo do buraco
+Instantaneamente o monstro olha para o cachorro e começa a fazer barulhos de babuíno 
+Como uma alcateia , todos os monstros começam a fazer barulho de babuíno la do porão
+"CALADOS!" o homem tatuado grita
+Na parte de cima , o monstro está correndo para cima do cachorro
+Ao chegar perto o principal fazo cachorro parecer que está voltando par ao buraco
+O monstro corre para tentar alcança-lo e tenta entrar no buraco
+No que ele está abaixado , o principal pega uma tabua de madeira com um prego e dá nas costas do monstro
+0 reação , o prego fica enfincado nas costas dele e nada
+o monstro tira sua cabeça do buraco e vira para tras
+dando de frente com o principal
+"Clotilde , mudança de planos , pega a marta e leva ela pra onde você conseguir!"
+O monstro tenta pegar o principal que se joga para tras no chão e rapidamente se levanta
+ele sai correndo para o porão
+ele abre a porta e da de cara com todo mundo
+"A quanto tempo principal..." o tatuado fala com um tom de vilão principal
+"vadia , cala boca"
+Com isso o principal só faz uma manada de cachorros aparecerem no porão
+A cara do homem tatuado fica estática , parece que ele viu sua vida passar pelos seus olhos
+O principal ri
+O caos toma conta do porão 
+Alguns monstros estão pulando
+outros correm atras de alguns cachorros
+mas definitivamente nenhum está preocupado com o principal
+ele olha pro homem tatuado e depois para o mestre , que ainda está consciente, no meio do processo de ser plugado a maquina. Pelo menos estava antes dos cachorros
+O principal corre para cima dele, ainda se concentrando nos cachorros
+ele desvia de um dos monstros , olha para os lados
+e BAU
+toma um tapa do homem
+A concentração dele foi pro karalho , os cachorros acabaram 
+todos os monstros estão com uma cara de perdidos
+e olham em conjunto para o principal
+"SEU FILHA DA PUTA HAHAHAHA , EU SABIA QUE VOCÊ IA APARECER"
+"Quem que é você cara, pelo amor de deus"
+"VOCÊ NÃO VAI ME FALAR QUE NÃO SE LEMBRA DE MIM , NICOLAS , O HOMEM QUE VOCÊ DESTRUIU A VIDA"
+"DO QUE QUE VOCÊ TA FALANDO CARA , EU TO AQUI A UMA SEMANA"
+Mais um tapa é desferido na cara do principal
+O mestre está tentando falar algo , mas sua boca está tapada
+Só se ouve 
+hm- hm -ho
+"PARA DE MENTIR PRA MIM , VOCÊ QUE ME DEIXOU ASSIM , VOCÊ QUE ME FEZ FAZER ISSO"
+O principal tenta ouvir o mestre
+~que porra que ele ta falando repetidamente sem parar...~
+"Olha cara , eu juro que eu só quero meus parceiros de volta , pode fazer oque você quiser com qualquer um só me deixa sair daqui com eles"
+"Você só sai daqui quando eu cansar de ver você torturado..."
+O teto quebra e Clotilde cai bem atras da maca da marta
+no que todos olham , o principal se levanta e se joga para cima do mestre
+mas é segurado por um dos monstros 
+Ele estica a mão e consegue alcançar a venda em sua boca e puxar
+"CA CHO RRO"
+"ah , faz sentido"
+E a manada de cachorro volta , cada um brincando com uma bolinha 
+Os monstros perdem o controle denovo
+"PUTA QUE PARIU QUE MULEQUE INSUPORTAVEL" o Homem grita
+O monstro que segurava o principal simplesmente zuni ele na parede e sai correndo para cima de algum dos cachorros
+o principal sente sua costela quebrando quando é arremessado na parede
+Suas projeções sentem também, e algumas param de brincar
+mas ele se concentra nos cachorros felizes , não se sabe oque eles vão fazer quando descobrirem que não existem cachorros
+O principal corre até o mestre e solta uma das mãos dele 
+Nisso o mestre já se solta instantaneamente e salta da cadeira
+"Rápido , cade Clotilde e marta"
+"Do outro lado da sala , Clotilde caiu aqui no porão e eu usei a distração dela para te salvar"
+"Primeiro as damas..."
+O mestre salta e caminha pela sala como se nada estivesse acontecendo , cada objeto perto de bater nele , ele só caminha e desvia , como se o trajeto dele já tivesse sido planejado vendo o futuro 
+Ele vai até a maca da marta e vê o homem tatuado segurando clotis com um dos dedos na garganta dele
+"HAHAHA , VOCÊ ACHAVA QUE IA CONSEGUIR FAZER ESSA MERDA DENOVO? VO CÊ SO SAI DA QUI , MOR TO"
+"Solta ela maluco , a gente não fez nada pra você" -Mestre
+Clotis bota as mãos para traz e quebra a panturrilha dele como um palito de dente 
+O homem consegue dar um corte na jugular de clotis
+"MEU DEUS CLOTIS"
+"Rápido , solta a marta, e vamos sair daqui..."
+O principal vai lá e solta a marta bem facilmente até, essa maca funciona totalmente com velcros
+"Tá solta.... e desacordada"
+Marta cai e o principal quase não aguenta o peso
+"Leva os cachorros lá pra cima"
+O principal só imagina os cachorros subindo pela porta e todos os monstros vão atras
+rapidamente o mestre vai e tranca a porta 
+"Rápido , não temos muito tempo"
+"Rápido oque?"
+O mestre vai até o corpo do homem que está quase catatônico, ele está todo branco pela perda de sangue
+"Como você controla esses monstros?"
+ele bota o pé em uma das suas panturrilhas e pisa 
+"ha... você acha que dor me afeta? eles ão meus filhos , eles me escutam porque sou o pai deles"
+O mestre da um pulo para a outra perna
+"Então pelo menos fala da onde eles vem"
+"Vocês realmente não lembram do Paulo? que tipo de heróis são vocês?" Ele cospe no chão
+"Rápido, ve se você acha alguma sala"
+Os monstros estão batendo na porta para voltar para o porão
+No que o principal olha na sala na parte debaixo da escada existe um quarto
+ele abre a porta e vê um homem numa cadeira de rodas
+O homem está completamente fudido numa cadeira de rodas , conectado a todo tipo de tubos hospitalares
+"TEM UM CARA AQUI"
+O mestre vem correndo 
+"Você consegue controlar os monstros?"
+O cara balança a cabeça
+"E se le for do mal também?"- Principal
+"EU NÃO VOU PERDER MAIS UM"- Mestre
+O mestre rapidamente e cuidadosamente tira todos os cabos do homem e leva ele até a porta do porão
+O homem tatuado olha o Paulo sendo levado e ri
+"Isso não vai acabar as..."
+O principal da um chutão na boca dele
+"cala boca piranha"
+No que um dos monstros consegue quebrar a porta , eles veem Paulo
+Todos os monstros que agiam como babuínos parecem ganhar consciência 
+Os monstros vão para volta de Paulo e começam a chorar
+O mestre está pegando a Clotilde com uma pressa
+ele olha para o principal
+"Rápido , pega a marta"
+"Pra onde a gente leva elas?"
+"É... Hmmmm ... A gente precisa acordar a marta a gente precisa de .... rápido , pra sala do Paulo"
+O principal pega a marta e senta ela na parede dentro do quarto
+O mestre está falando para Clotilde 
+"Não fala , tenta respirar pelo nariz e segura o máximo que der essa garganta"
+Clotilde concorda com a cabeça 
+"Rápido , adrenalina, pó , bala , qualquer coisa pra ela acordar , rápido"
+O principal olha em volta do quarto
+mas o mestre achou antes
+sem nem pensar ele enfia a seringa na coxa da marta 
+e ela acorda com uma respiração profunda
+"Marta , desculpa , mas estamos sem tempo , a gente precisa entrar , a clotis ta morrendo"
+Nisso o mestre e a Clotilde vão para cima da marta
+"Muleque , fica ai , não deixa  marta sozinha"
+O principal levanta as mãos como se estivesse sendo preso
+"Ok........... Oi marta"
+Marta está que nem o tatuado , a cara completamente pálida e parecendo que o ar não enche o pulmão
+"Oi... como que foi lá com armando?"
+O principal não aguenta e da uma risada
+Marta ri junto 
+"Eu não sei muito bem oque fazer , queria pegar uma agua pra você , ou algo pra te ajudar , mas não quero te deixar sozinha aqui , também não sei muito bem como estão as coisas lá fora..."
+"ta tudo bem , quando o mestre volt...."
+Então jas , isabela e gustaff saem de marta
+"Ufa , achei que nunca ia sair dali..." - Jas
+"Nem me fa... MEU DEUS QQ HOUVE MARTA"- Gustaff
+"Oi gente , então, amartafoiraptadaporessemalucoquetavafazendoumexercitodecloneseprecisavadecelulastroncosdepessoasaielaficouinconsienteeninguemdevocêspodesair"
+"Nossa , mas um dia normal"- Jas
+"Precisamos ajudar em algo? alguém precisa de porrada?"- Gustaff
+"O cara que estava sendo clonado ta ali fora e ta tendo um momento emocional com os clones dele"
+Isabela se senta do lado da marta e começa a mexer no celular
+Gusatff abre a porta e vai conferir o lado de fora
+O principal , curioso , vai atras
+"Eita porra" Gustaff bota a mão na frente do principal "Você não vai querer ver isso , se isso que eu to pensando for o clone , eles estão tentando se matar , e não é nem um pouco bonito"
+O principal tira a mãod e gustaff da frente e vai ver 
+Realmente a cena é horrível , Paulo está de costas para eles e os monstros estão tentando se matar, mas pacificamente
+um tenta enfiar o braço dentro do outro , enquanto um tenta abrir sua própria cabeça , dois estão dando cabeçadas um no outro até a cabeça explodir 
+"Jesus cristo que porra é essa"
+"Bem-vindo a utopolis..."
+"Vamos tentar ser uteis , vamos achar alguma agua , bandagens , algo que possa ajudar a marta"
+Jas sai do quarto e vem atras dos dois
+que em conjunto falam
+"Não não não não não não não"
+jas parece não escutar e com cinco segundos vendo a cena começa a vomitar
+Fica com ela ai que eu vou pegar a agua
+O principal até aguentou , mas não da pra ficar muito tempo vendo
+Esses clones não parecem sentir dor , eles estão botando o corpo humano em situações nunca vistas e jesus , o corpo realmente não consegue aceitar essas cenas
+Ele se vira na mesma direção de Paulo e vai para o lado dele
+"Eae , Paulo né?"
+"sim..."
+"Ce ta bem , precisa de alguma coisa?"
+"Já estive melhor , mas comparado os ultimos 3 meses , eu to no melhor lugar possível"
+"Você ta aqui a 3 meses? oque aconteceu aqui?"
+"Esse maluco me raptou do nada e ele ficava me cortando para me clonar, nem eu sabia que eu podia fazer isso... ai ficava fazendo esses clones , que nem sei se posso chamar de clones... eles compartilham uma consiencia comigo , mas todos eles estavam sofrendo o tempo todo, por isso a cena ai atras... No caso eles compartilham uma consciência comigo , mas só perto. Oque vocês viram antes é meio que eles sem consciência."
+"E o cara queria faze um exercito de você inconsciente?"
+"Esse filha da puta ficava tratando eles como bebes , dava comida e abrigo e eles foram atras né , foi uma das coisas mais bizarras que eu já vi, ele botava eles pra dormir , dava ~beijinho~ de boa noite isso com eles tendo seus olhos caindo , sem braço sem lábios , nojo só de pensar"
+"Ele tava raptando gente pra dar células tronco pros clones , talvez ele tava tentando...."
+"Sim , eu sei , primeiro foi comigo , depois com macacos , agora com gente , graças a deus vocês chegaram porque acho que ele não iria parar , nãos ei qual seria a próxima tentativa dele , mas com certeza daria errado"
+"Falando nisso cadê ele?"
+"Ele morreu , quer dizer , teleportou... queria eu que ele tivesse morrido"
+"...Peço desculpas de ser tão  seco assim , mas nossas amigas estão morrendo lá atras , sabe onde teria agua , remédios ou algo pra ajudar elas?"
+"Esse filha da puta roubava suprimentos dos lumieres, acredito que ainda tenha uma caixa naquele canto"
+O principal da uma olhada e realmente existe uma caixa com a logo da farbs & fabs 
+"Você vai querer alguma coisa?"- Principal
+"Se tiver uma agua periódica sobrando eu aceito"
+O principal abre a caixa e tem basicamente um estoque de duas coisas
+Uma pilha de garrafas d'água e uma caixa de metal com um visor de vidro do lado , contendo um liquido frio e meio verde
+"Essa agua periodal ai, é isso aqui?" - O principal fala puxando uma das garrafas d'água
+"Sim , e leva uma... algumas, pra sua galera lá dentro"
+O principal joga uma das garrafas para Paulo
+Paulo não consegue pegar, ele ta completamente fudido em uma cadeira de rodas
+"Eita , foi mal"
+O principal pega 4 garrafas e vai dar uma para Paulo e pegar a que está no chão
+No que ele olha para cima ele vê um resquício dos clones tentando se matar , parece que uns dois conseguiram , mas oque restaram parecem a criação de milhares de pesadelos conjuntos 
+O principal vai em direção ao quarto com as escadas
+Ele abre a porta e todos estão rindo
+Parece que jas não consegue parar de vomitar , e gustaff está ali tentando ajudar ela ao máximo
+"MEU DEUS QUE PORRA ERA AQUE... BRRRRRRRRR" -jas
+Marta parece estar perdendo o ar de tanto rir e isabela parece feliz a primeira vez , e ela não está no celular
+Gusatff é o único que não parece muito feliz , segurando os cabelos de jas enquanto ela reclama e esticando o braço dele para jogar em um ralo ali dentro da sala
+"Não queria estragar o momento , mas trouxe agua ... periódica?"
+Marta arrega-la os olhos e vai pegar a agua
+Ela tenta se levantar para alcançar mas gustaff manda isabela ajudar a marta
+Isabela levanta e pega duas aguas, deixa uma com gustaff e da uma para marta 
+Marta vira aquela garrafa em um gole
+quando ela termina e da uma respirada , a tom de pele dela volta ao normal 
+as olheiras voltam um pouco e ficam menos escuras
+parece que voltaram a vida dentro dela
+"Quer mais uma? Oque que tem dentro dessa agua?"
+"Tudo , quer dizer , tudo que você precisa naquele momento. Ela vê os níveis de sais minerais , proteínas e essas coisas no seu corpo e regula"
+"Eita , acho que vou pegar uma para mim"
+"É sempre bom , mas tipo , você precisaria tomar todo dia para começar a sentir algum efeito real, a gente ta falando de deixar os seus níveis de vitamina b7 bons , você vai conseguir dormir melhor sabe?"- Marta
+"Ah , você fala como se fosse só isso , sem um sono regulado a sua pele começa a perder nutrientes e vai ficar tudo enrugado com o tempo , além de você precisar para conseguir ver melhor , ter mais disposição... Eu acho super necessário e eu tomo todo dia"- Isabela
+"Eu sei isa , mas a verdade que tem um monte de produto que melhora sua vida , as vezes bem mais do que esse. Mas esse é feito pela farbs & fabs , então os lumieres ficam enfiando isso goela a baixo da galera , e você só ta seguindo o roteiro"- Marta
+"Ai , ta bom marta , agua periódica é uma merda e não muda nada"
+"Não foi isso que eu... tá , tudo bem"
+O principal acha esquisito a isabela concordar com algo que os lumieres falam
+Lao sai de Marta
+"Clotilde está bem , podemos voltar. Vou ficar aqui para ajudar a marta" 
+"Opa lao , a quanto tempo"
+Lao não responde
+"Você vão entrar?"- Principal
+"Eu ficaria aqui , que vacilo deixar a marta aqui fora depois disso tudo" - Gustaff
+"Eu to entrando"- Isabela fala olhando para o celular e só andando em direção a marta
+"Vocês sabem oque que o mestre fala sobre essas reuniões aqui fora"- Lao fala com uma cara de raiva
+"Ai vem outro maluco que deixa a marta inconsciente , mata ela e todo mundo fica na rua e sem marta e perde tudo que tinha... Olha , acho que a gente deveria ficar aqui , ver se ta tudo bem com o Paulo e amanha a gente pensa no que fazer. Tem alguém fazendo merda agora que a gente precisa lidar?" - Gustaff
+"Vou falar com o mestre"
+"Vou com você , quero falar com a clotis"
+Lao e o principal entram na marta
+A sala principal está completamente desarumada
+Na verdade ela está desarrumada demais , tem coisas aqui que não existiam antes
+Clotilde está numa maca aonde estaria a mesa principal 
+do lado tem uma tela que desce do teto
+"Eita , isso não tinha antes"- Principal
+"E você acha que a gente sobreviveria só com um escritorio meia boca? A gente não precisa de hospital o tempo todo , mas se precisar a gente tem aqui dentro"
+"Foda"-O principal fala indo ver Clotilde
+"Clotilde , puta que pariu , você ta de parabens. Eu ja achei que aquele filha da puta tava na vantagem mas mal deu pra eu pensar em algo e você BAU só quebra as pernas dele na hora "
+Clotilde não fala nada, ela faz um movimento com a mão como se não fosse nada 
+"Ela ainda não ta podendo falar , se ela forçar muito pode ser que o buraco abra de novo"- Mestre
+"Se cortar o pecoço dela não adiantou nada , porque ele ameaçou ela com isso?"
+"Era pra funcionar , ams ele realmente só pegou o lado do pescoço , a reação dele só veio quando ele ja tava caindo , por isso conseguimos salvar"
+"Graças a ... deus? tem deus aqui?"
+"Otima pergunta...." -Mestre
+O pessoa está ali sentado em uma cadeira segurando um dos dedos da clotilde como se fosse um macarrão de piscina
+"Fala pessoa , tudo certo?"- Principal
+"Pessoa está com seus olhos roxos e só responde telepaticamente"
+~bãoo~
+"Eles tão batendo um papo lá dentro se você quiser, pode ir lá com eles"-  Mestre
+"Mestre , os outros estão de bira e querem desrespeitar o senhor..."- Lao
+"Acho que eu vou lá c pessoa e a clotis" - o principal fala correndo para cima do pessoa para sair daquele drama
+No que ele toca pessoa *Vertigo* 
+Ele está numa sacada no por do sol
+"Oooopa novato , chega ai cara!"- Pessoa 
+ele olha para o lado e pessoa está se levantando e indo apertar a mão do principal
+Os dois estão tomando um café com bolo vendo o por do sol no que parece ser uma savana
+"Tava contando pra ele da mais nova dupla de ação , principal e clotis. hahaha" - Clotilde
+"Que isso mulher , você deu um banho em mim lá , todos meus planos deram errados , se não fosse você auqle cara ainda estaria ai"
+"Me poupe, um otario daqueles , ja vivi uma vida inteira sem essas mãos e mesmo assim eu não arriava pra ninguem. Onde já se viu me usar de refem , quer me matar vai em matar logo"
+O principal fica em choque com a dureza de clotis, ela realmente é bem rough
+"Toca garota" - O principal fala levantando a mão para que clotilde dê um "toca aqui"
+clap , clap  
+"Ela me falou sobre os cachorros , só de imaginar aqueles monstros correndo que nem crianças para cima de cachorros heheh , eu já começo a rir , hehehe"
+"Sei lá cara , as vezes essas ideias só veem , e eu fiquei impressionado que o mestre "gostou" , tipo , não acho que ele gostou mesmo , mas quando o cara conseguiu me desconcentrar ele gritava loucamente para eu só fazer os cachorros de novo"
+"é, faz um tempo que ele deixou de querer ensinar estilos de vidas e jeitos de pensar , hoje em dia ele só completa objetivo , não importa muito como"-Clotilde
+"Eita , isso é meio bizarro não?"-Principal
+"sim , é. mas ela ta falando mais no sentido dele não iria querer que você distraisse eles com algo serio , ou mais controlável. Você conseguindo distrair os monstros para ele tá otimo , o problema msm é se o objetivo dele for do mal, que hoje em dia não tem nem muito como ser"- Pessoa
+"Ele é impedido de ser malvado?"- Principal
+"Ele literalmente só querendo salvar gente já é perseguido nesse nível que você ta vendo , imagina se ele quisesse fazer mal"-Pessoa
+"Então , se os lumieres sumirem e ele ainda tiver com essa visão fudeu?"- Principal
+"Sumirem? voê acha que isso é possível? primeiro que se matar todos eles , de algum jeito eles vão voltar para cá e fazer as mesmas merdas , se a gente fazer oque eles fazem , eles vão conseguir convencer todo mundo de ir atras deles, e traze-los de volta. Eu não consigo mais ver como eles iriam "sumir""- Pessoa
+"A questão é muito complexa né? oque é o certo nesse mundo? Existe tipo, algo que todo mundo concorda que é o "objetivo"? "- Principal
+"Não , existem algumas comunidades em alguns cubos que até tem um objetivo, mas aqui vendem a ideia de que acharam o objetivo real , morrer. Aqui é vendida a ideia de que você chega , trabalha , experiencia oque esse plano tem para oferecer e depois vai para a morte, que é beeeeeem cara"
+"Pera as pessoas tão pagando para morrer?"
+"Eu tenho medo de te contar oque acontece e você achar legal , mas é uma morte que você entra em um tubo , e se alguém quiser falar com você ela faz exatamente isso que a gente ta fazendo. É uma morte seletiva , se alguém quiser te visitar a pessoa só vai até você e vocês batem um papo"
+"Mas assim , realmente parece uma boa opção. você não precisar se preocupar com nada , mas ainda poder receber visitas de amigos"
+"Exatamente , você pensa isso porque a realidade é uma bosta, e você não quer mais ficar nela. mas não foi isso que a gente veio aqui para fazer , não era para ser horrível. Era para ser .... tipo.... meio termo , sabe? tem que ter momentos de tristeza para apreciar a felicidade , parece que aqui o objetivo é viver uma vida cinza para não aguentar mais e sumir"
+"Mas porque tudo isso , porque todo esse trabalho para manter gente aqui , desenvolver essa tecnologias , fazer todo esse controle mental"
+"Então , agora o assunto fica delicado , porque realmente a gente não sabe... EU acho que realmente é só uma power trip , que algum deles só quer provar pro bullying dele da escola que "ele conseguiu , olha o quanto eu sou foda". Sabe?"
+"Eu acho que a vida sempre foi assim , sempre foi cinza. aqui é só o mundo la de baixo com algumas coisas diferentes. Mas realemnte esses lumieres são uns bandidos , eles poderiam estar salvando a população mas preferem ficar viajando os cubos pra fazer turismo , a preguiça é foda"-Clotis
+"Ai clotis ,a gente sempre entra nessa discussão , se eles tivessem aqui não ia mudar nada , eles literalmente veem a cidade toda e são meio onipotentes, eles fazem oque eles quiserem"-Pessoa 
+ "Mas eles não querem tirar as liberdades das pessoas"-Clotis
+"Isso é oque eles falam meu amor , eles tão mentindo... na verdade mesmo , mentindo eles não estão. Realmente existem pessoas horriveis no mundo . Realmente você pode ir pro proximo cubo e passar um ano sendo escravizado... da mesma forma que você pode ir para o proximo cubo e encontrar o real amor da sua vida e experimentar tudo com ela. Você pode achar um cubo com pessoas que só querem fazer os maiores espetaculos visuais possiveis... Oque eu quero dizer , é que te vendem essa ideia de que estão te protegendo de tudo que a de ruim , mas tambem estão te protegendo de tudo que a de bom"- Pessoa
+"Nunca vi alguem defender esses maniacos , você quer ser torturado? se deixar vai ficar todo mundo se matando"- Clotilde
+"Você acha que o mal é inerente ao ser humano? que todos sonham em sair matando todo mundo? EU acho que oque a gente vive é uma grande bola de neve de um cara que foi babaca , e outro que queria fazer ele pagar"
+"Já vivi muito tempo lá em baixo , não sei nem quanto tempo aqui, e sim , o ser humano é babaca"
+"Gente , que discussão filosofica..."-Principal
+"Obvio né cara , a gente está num plano com super poderes e não podemos morrer , oque que você acha q a gente vai discutir além do sentido de estar aqui?"-Pessoa
+"Oque eu entendi: as pessoas estão aqui com a promessa de serem protegidas dos males que tem no mundo , e pessoa defende que estão protegendo eles de TUDO que o mundo tem a oferecer , e cloti acredita que se n fossem eles o mundo realmente estaria um caos"
+"é"-Pessoa e Clotis 
+"mas você não quer tirar os lumieres do poder?"- Principal
+"cara , já falei , isso não é uma opção. Tem gente aqui dentro que vai lutar com unhas e dentes pra defender essa ideia... (pessoa da uma olhada para clotilde) que todo mundo é um filha da puta e que o unico jeito de se proteger é com força"-Pessoa
+"Parece até uma discussão do que seria melhor , uma sociedade caçadora-coletora , ou essa loucura que temos atualemnte. Você prefere viver com um medo constante de morrer por causa de um pé quebrado, uma chuva forte , um bixo te atacar? ou viver uma vida cinza com o unico medo ser não ter dinheiro"-Principal
+"é , eu entendo que tem gente que realmente não quer viver esses altos e baixos da vida , mas sei lá , pra que viver? vai ficar em um monotom a vida toda..."
+"É , viver isso aqui parece horrivel"
+Clotis abre os braços apontando para a savana na frente deles 
+"Você acha que quanto tempo você vai achar isso aqui absurdo? Você acabou de quase "morrer", e agora está aqui. Se eu só te chamasse para um café aqui, ok , seria legal.... Mas agora com toda essa tensão de quase ter morrido , e o contraste disso aqui , gerou toda essa felicidade... por favor não morra mais vezes pra gente tomar café kkkkkk"-Pessoa
+"hahaha , pode deixar , eu tento... mas acho que ia demorar bastante pra me cansar disso aqui"-Clotilde
+"Queria poder te mostrar o quão triste você ficaria tendo tudo que você quer..."
+O principal sentado ali com eles toma seu café e quando pessoa fala isso , parece que aquele simbolo do until dawn apareceu *isso será lembrado*
+"Como que funciona o tempo aqui dentro? lá fora passa igual aqui , passa mais rapido?"-Principal
+"A verdade que vocês são so avatares da mente de vocês aqui , eu consigo alterar isso, acho meio torturante obrigar clotilde a ficar aqui dentro durante sei lá quanto tempo até ela se curar , então no momento ta passando mais rapido lá fora"-Pessoa
+"A quanto tempo a gente ta aqui?"-Principal
+"Não sei"-Pessoa
+"Não ligo" - Clotilde
+"Eita , adoraria ficar aqui com vocês , mas preciso voltar lá pra fora"
+"Precisa é forte... mas vai lá garoto"
+Pessoa estende a mão e toca no ombor do principal
+*Vertigo*
+E uma respiração profunda
+Parece que uma flashbang estourou e vem um piiiiii
+a visão do principal começa a focar e o mestre está dormindo do lado de Clotilde e pessoa 
+A sala parece estar vazia
+O principal se levanta e vai até o corredor que leva ao salão com os quartos
+ninguém lá também 
+"Isabela?" - o principal fala
+mas não tem resposta 
+O principal decide sair e ver oque está acontecendo , ele não sabe quanto tempo passou
+Ele passa pela parede
+No que ele abre os olhos na sala
+Uma festa está rolando
+Ele Se encontra jogado no chão e vê que tava rolando uma dança das cadeiras e ele decidiu sair da marta bem no meio
+"NÃO VALEU , NÃO VALEU , VOCÊS VIRAM QUE ELE SAIU BEM NA HORA QUE A MUSICA PAROU"
+"Não sei se é assim que funciona..."-Gustaff
+"Pelo amor de deus gu , você mesmo falou que não podia usar os poderes que se não o lao ia ficar uma disputa entre o lao e você"
+"Já falei que não quero jogar"-Lao
+"A gente sabe... Tá ,a gente faz essa rodada de novo. Novato , tem alguem pra sair ai?"- Gustaff
+"Lá dentro tem o mestre dormindo a clotis desacordada e pessoa"-Principal
